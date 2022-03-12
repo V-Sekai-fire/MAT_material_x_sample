@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://d101ikqf3bxrx"
-path="res://.godot/imported/mx_premult_color4.glsl-6a75a9ad3dc2936686440d78fb14c47a.res"
+path="res://.godot/imported/mx_premult_color4.glsl-f9ef173f61ec132241120eb2b8f42fbb.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_premult_color4.glsl"
-dest_files=["res://.godot/imported/mx_premult_color4.glsl-6a75a9ad3dc2936686440d78fb14c47a.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_premult_color4.glsl"
+dest_files=["res://.godot/imported/mx_premult_color4.glsl-f9ef173f61ec132241120eb2b8f42fbb.res"]
 
 [params]
 

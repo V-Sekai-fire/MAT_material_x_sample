@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://clpgh0tplub2p"
-path="res://.godot/imported/mx_fractal3d_vector4.glsl-badf10005d37d7aada44c59fa7095727.res"
+path="res://.godot/imported/mx_fractal3d_vector4.glsl-4e2d3ac86bcf2d04f4679bf55a76da81.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_fractal3d_vector4.glsl"
-dest_files=["res://.godot/imported/mx_fractal3d_vector4.glsl-badf10005d37d7aada44c59fa7095727.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_fractal3d_vector4.glsl"
+dest_files=["res://.godot/imported/mx_fractal3d_vector4.glsl-4e2d3ac86bcf2d04f4679bf55a76da81.res"]
 
 [params]
 

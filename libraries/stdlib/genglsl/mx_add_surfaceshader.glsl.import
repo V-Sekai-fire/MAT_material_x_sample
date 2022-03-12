@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://bim4wixn357m2"
-path="res://.godot/imported/mx_add_surfaceshader.glsl-2d1dbb03d886d1516943d231cb2f7128.res"
+path="res://.godot/imported/mx_add_surfaceshader.glsl-aa53cf5ac550ec31f1081206f9db5aea.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_add_surfaceshader.glsl"
-dest_files=["res://.godot/imported/mx_add_surfaceshader.glsl-2d1dbb03d886d1516943d231cb2f7128.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_add_surfaceshader.glsl"
+dest_files=["res://.godot/imported/mx_add_surfaceshader.glsl-aa53cf5ac550ec31f1081206f9db5aea.res"]
 
 [params]
 

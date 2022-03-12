@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cii38eii48lfd"
-path="res://.godot/imported/mx_cellnoise3d_float.glsl-d5b82414c05f4dc029bc53b9586b96e0.res"
+path="res://.godot/imported/mx_cellnoise3d_float.glsl-afcf0c0bbc9790d0a3bc199cb9dfd2bf.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_cellnoise3d_float.glsl"
-dest_files=["res://.godot/imported/mx_cellnoise3d_float.glsl-d5b82414c05f4dc029bc53b9586b96e0.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_cellnoise3d_float.glsl"
+dest_files=["res://.godot/imported/mx_cellnoise3d_float.glsl-afcf0c0bbc9790d0a3bc199cb9dfd2bf.res"]
 
 [params]
 

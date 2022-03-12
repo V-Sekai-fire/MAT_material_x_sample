@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cnps3psxdp2m4"
-path="res://.godot/imported/mx_directional_light.glsl-7350accfe7b8356735df787369ec6576.res"
+path="res://.godot/imported/mx_directional_light.glsl-bbe39188e6a0cfec41357d6cf2ca9a91.res"
 
 [deps]
 
-source_file="res://libraries/lights/genglsl/mx_directional_light.glsl"
-dest_files=["res://.godot/imported/mx_directional_light.glsl-7350accfe7b8356735df787369ec6576.res"]
+source_file="res://resources/libraries/lights/genglsl/mx_directional_light.glsl"
+dest_files=["res://.godot/imported/mx_directional_light.glsl-bbe39188e6a0cfec41357d6cf2ca9a91.res"]
 
 [params]
 

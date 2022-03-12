@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://erlrtaelufr8"
-path="res://.godot/imported/mx_burley_diffuse_bsdf.glsl-c7e974f16c0ffc02f2a6306843a8b9e3.res"
+path="res://.godot/imported/mx_burley_diffuse_bsdf.glsl-e36d7906d1a04aebc31ee4acabae9656.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/mx_burley_diffuse_bsdf.glsl"
-dest_files=["res://.godot/imported/mx_burley_diffuse_bsdf.glsl-c7e974f16c0ffc02f2a6306843a8b9e3.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/mx_burley_diffuse_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_burley_diffuse_bsdf.glsl-e36d7906d1a04aebc31ee4acabae9656.res"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cebwjtaayn2os"
-path="res://.godot/imported/mx_image_vector4.glsl-5d2fb8cc803a7eec7a703a0bc3178d1d.res"
+path="res://.godot/imported/mx_image_vector4.glsl-54cacd5b6c173b273350cdf388a5f07e.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_image_vector4.glsl"
-dest_files=["res://.godot/imported/mx_image_vector4.glsl-5d2fb8cc803a7eec7a703a0bc3178d1d.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_image_vector4.glsl"
+dest_files=["res://.godot/imported/mx_image_vector4.glsl-54cacd5b6c173b273350cdf388a5f07e.res"]
 
 [params]
 

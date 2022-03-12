@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cjshf3cel846a"
-path="res://.godot/imported/mx_splitlr_vector2.glsl-48b886b5bc2f7d43911b9c621498a0c4.res"
+path="res://.godot/imported/mx_splitlr_vector2.glsl-7ef93af6c469f01d38ef4172aa062ea5.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_splitlr_vector2.glsl"
-dest_files=["res://.godot/imported/mx_splitlr_vector2.glsl-48b886b5bc2f7d43911b9c621498a0c4.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_splitlr_vector2.glsl"
+dest_files=["res://.godot/imported/mx_splitlr_vector2.glsl-7ef93af6c469f01d38ef4172aa062ea5.res"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://da4fpg0pnlcwy"
-path="res://.godot/imported/mx_shadow.glsl-bedf5277e5ab918822b6d0efd1b836d1.res"
+path="res://.godot/imported/mx_shadow.glsl-ed351f8cd728c161536d8ba88464e097.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/lib/mx_shadow.glsl"
-dest_files=["res://.godot/imported/mx_shadow.glsl-bedf5277e5ab918822b6d0efd1b836d1.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/lib/mx_shadow.glsl"
+dest_files=["res://.godot/imported/mx_shadow.glsl-ed351f8cd728c161536d8ba88464e097.res"]
 
 [params]
 

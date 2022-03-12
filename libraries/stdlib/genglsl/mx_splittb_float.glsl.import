@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://c582teh856cbi"
-path="res://.godot/imported/mx_splittb_float.glsl-e4995a9711b5dee3f49d9ef67ce0f290.res"
+path="res://.godot/imported/mx_splittb_float.glsl-70a2d4b6b1819dfdde3944ab35d01243.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_splittb_float.glsl"
-dest_files=["res://.godot/imported/mx_splittb_float.glsl-e4995a9711b5dee3f49d9ef67ce0f290.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_splittb_float.glsl"
+dest_files=["res://.godot/imported/mx_splittb_float.glsl-70a2d4b6b1819dfdde3944ab35d01243.res"]
 
 [params]
 

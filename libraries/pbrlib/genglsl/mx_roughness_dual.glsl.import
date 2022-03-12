@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://c3tjp8odi5wg"
-path="res://.godot/imported/mx_roughness_dual.glsl-03eb8d2e985d86ae63cdb1e972b98232.res"
+path="res://.godot/imported/mx_roughness_dual.glsl-41eaa87ff94cd91199d613c0b80c1e5f.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/mx_roughness_dual.glsl"
-dest_files=["res://.godot/imported/mx_roughness_dual.glsl-03eb8d2e985d86ae63cdb1e972b98232.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/mx_roughness_dual.glsl"
+dest_files=["res://.godot/imported/mx_roughness_dual.glsl-41eaa87ff94cd91199d613c0b80c1e5f.res"]
 
 [params]
 

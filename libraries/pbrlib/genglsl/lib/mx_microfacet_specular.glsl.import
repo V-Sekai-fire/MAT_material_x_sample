@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://diovqt32vxluc"
-path="res://.godot/imported/mx_microfacet_specular.glsl-c1c5a1af032926f931a85d9292d9da3b.res"
+path="res://.godot/imported/mx_microfacet_specular.glsl-49e612974f62588836213b46ee8fef35.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/lib/mx_microfacet_specular.glsl"
-dest_files=["res://.godot/imported/mx_microfacet_specular.glsl-c1c5a1af032926f931a85d9292d9da3b.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/lib/mx_microfacet_specular.glsl"
+dest_files=["res://.godot/imported/mx_microfacet_specular.glsl-49e612974f62588836213b46ee8fef35.res"]
 
 [params]
 

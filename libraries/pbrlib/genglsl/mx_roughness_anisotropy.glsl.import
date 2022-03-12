@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://dxiyjq3jdxhrk"
-path="res://.godot/imported/mx_roughness_anisotropy.glsl-7b49c91f49a88f6120be8588dd61611e.res"
+path="res://.godot/imported/mx_roughness_anisotropy.glsl-38b609970daec500aeefb7fd2f32e0e3.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/mx_roughness_anisotropy.glsl"
-dest_files=["res://.godot/imported/mx_roughness_anisotropy.glsl-7b49c91f49a88f6120be8588dd61611e.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/mx_roughness_anisotropy.glsl"
+dest_files=["res://.godot/imported/mx_roughness_anisotropy.glsl-38b609970daec500aeefb7fd2f32e0e3.res"]
 
 [params]
 

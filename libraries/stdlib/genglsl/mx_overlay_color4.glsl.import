@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://dyysx88v8yr15"
-path="res://.godot/imported/mx_overlay_color4.glsl-fe9a65298a9fe2d5c66f8d147b55d412.res"
+path="res://.godot/imported/mx_overlay_color4.glsl-65ee3deb46e432a1bb34e7b4cac8b604.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_overlay_color4.glsl"
-dest_files=["res://.godot/imported/mx_overlay_color4.glsl-fe9a65298a9fe2d5c66f8d147b55d412.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_overlay_color4.glsl"
+dest_files=["res://.godot/imported/mx_overlay_color4.glsl-65ee3deb46e432a1bb34e7b4cac8b604.res"]
 
 [params]
 

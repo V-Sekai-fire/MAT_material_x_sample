@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://b0lk8yonydawe"
-path="res://.godot/imported/mx_smoothstep_float.glsl-a08a50637761cfccc7d866a07c68eac5.res"
+path="res://.godot/imported/mx_smoothstep_float.glsl-25f9a82309d0e4ad6e907cb3f68333e5.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_smoothstep_float.glsl"
-dest_files=["res://.godot/imported/mx_smoothstep_float.glsl-a08a50637761cfccc7d866a07c68eac5.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_smoothstep_float.glsl"
+dest_files=["res://.godot/imported/mx_smoothstep_float.glsl-25f9a82309d0e4ad6e907cb3f68333e5.res"]
 
 [params]
 

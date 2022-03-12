@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cdco07nbt6nae"
-path="res://.godot/imported/mx_ramptb_vector3.glsl-43fc8dbe81c3bea6f5758e3c8df41731.res"
+path="res://.godot/imported/mx_ramptb_vector3.glsl-40917d8b7e9ca276d51fbed6da715980.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_ramptb_vector3.glsl"
-dest_files=["res://.godot/imported/mx_ramptb_vector3.glsl-43fc8dbe81c3bea6f5758e3c8df41731.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_ramptb_vector3.glsl"
+dest_files=["res://.godot/imported/mx_ramptb_vector3.glsl-40917d8b7e9ca276d51fbed6da715980.res"]
 
 [params]
 

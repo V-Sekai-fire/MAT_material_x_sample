@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://v02ku34fl567"
-path="res://.godot/imported/mx_microfacet_diffuse.glsl-e3630d3d59b19e22ee023699bef98bab.res"
+path="res://.godot/imported/mx_microfacet_diffuse.glsl-c9a7033ba44ddc6ba50ee5f75d832069.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/lib/mx_microfacet_diffuse.glsl"
-dest_files=["res://.godot/imported/mx_microfacet_diffuse.glsl-e3630d3d59b19e22ee023699bef98bab.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/lib/mx_microfacet_diffuse.glsl"
+dest_files=["res://.godot/imported/mx_microfacet_diffuse.glsl-c9a7033ba44ddc6ba50ee5f75d832069.res"]
 
 [params]
 

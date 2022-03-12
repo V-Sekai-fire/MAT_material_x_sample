@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://bqlvlyp3ix405"
-path="res://.godot/imported/mx_microfacet_sheen.glsl-69f5914da63c6e4c113023c15ee081d0.res"
+path="res://.godot/imported/mx_microfacet_sheen.glsl-c9b4f59b002d02233cd9da90ee20ad6e.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/lib/mx_microfacet_sheen.glsl"
-dest_files=["res://.godot/imported/mx_microfacet_sheen.glsl-69f5914da63c6e4c113023c15ee081d0.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/lib/mx_microfacet_sheen.glsl"
+dest_files=["res://.godot/imported/mx_microfacet_sheen.glsl-c9b4f59b002d02233cd9da90ee20ad6e.res"]
 
 [params]
 

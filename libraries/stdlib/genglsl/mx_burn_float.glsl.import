@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://gacuqxvo13ia"
-path="res://.godot/imported/mx_burn_float.glsl-185d4bdfc7855ce883e10d76bc79a10d.res"
+path="res://.godot/imported/mx_burn_float.glsl-c03881df6e40fd6f30a106c5776053a3.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_burn_float.glsl"
-dest_files=["res://.godot/imported/mx_burn_float.glsl-185d4bdfc7855ce883e10d76bc79a10d.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_burn_float.glsl"
+dest_files=["res://.godot/imported/mx_burn_float.glsl-c03881df6e40fd6f30a106c5776053a3.res"]
 
 [params]
 

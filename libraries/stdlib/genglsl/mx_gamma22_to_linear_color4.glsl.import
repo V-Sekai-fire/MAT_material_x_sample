@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://c5afdnk8qwfja"
-path="res://.godot/imported/mx_gamma22_to_linear_color4.glsl-025a6e2b78b54980cecb36ffafc3efdd.res"
+path="res://.godot/imported/mx_gamma22_to_linear_color4.glsl-55daaa28da3e8bdbf390e8423aa003f8.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_gamma22_to_linear_color4.glsl"
-dest_files=["res://.godot/imported/mx_gamma22_to_linear_color4.glsl-025a6e2b78b54980cecb36ffafc3efdd.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_gamma22_to_linear_color4.glsl"
+dest_files=["res://.godot/imported/mx_gamma22_to_linear_color4.glsl-55daaa28da3e8bdbf390e8423aa003f8.res"]
 
 [params]
 

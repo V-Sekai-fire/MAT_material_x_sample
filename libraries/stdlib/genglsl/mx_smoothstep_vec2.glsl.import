@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://bc8lalv25vvqp"
-path="res://.godot/imported/mx_smoothstep_vec2.glsl-1a2e7ff64115159ff07d670077b197ce.res"
+path="res://.godot/imported/mx_smoothstep_vec2.glsl-b9812a36097bba25d99ead730921520b.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_smoothstep_vec2.glsl"
-dest_files=["res://.godot/imported/mx_smoothstep_vec2.glsl-1a2e7ff64115159ff07d670077b197ce.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_smoothstep_vec2.glsl"
+dest_files=["res://.godot/imported/mx_smoothstep_vec2.glsl-b9812a36097bba25d99ead730921520b.res"]
 
 [params]
 

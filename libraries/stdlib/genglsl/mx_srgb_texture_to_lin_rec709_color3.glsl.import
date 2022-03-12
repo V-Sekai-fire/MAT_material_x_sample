@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://cvetty27tmshp"
-path="res://.godot/imported/mx_srgb_texture_to_lin_rec709_color3.glsl-ec7acd9688dfc2466e0872e02c13ac40.res"
+path="res://.godot/imported/mx_srgb_texture_to_lin_rec709_color3.glsl-ecc069ef402f73b24910153d6af784a0.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_srgb_texture_to_lin_rec709_color3.glsl"
-dest_files=["res://.godot/imported/mx_srgb_texture_to_lin_rec709_color3.glsl-ec7acd9688dfc2466e0872e02c13ac40.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_srgb_texture_to_lin_rec709_color3.glsl"
+dest_files=["res://.godot/imported/mx_srgb_texture_to_lin_rec709_color3.glsl-ecc069ef402f73b24910153d6af784a0.res"]
 
 [params]
 

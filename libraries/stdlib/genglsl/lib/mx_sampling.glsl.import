@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://i1twfjtil1l0"
-path="res://.godot/imported/mx_sampling.glsl-cf1aa46d319bc4895321ff78a28aa79f.res"
+path="res://.godot/imported/mx_sampling.glsl-247f42bd60dab3617c9b1935f04b63cc.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/lib/mx_sampling.glsl"
-dest_files=["res://.godot/imported/mx_sampling.glsl-cf1aa46d319bc4895321ff78a28aa79f.res"]
+source_file="res://resources/libraries/stdlib/genglsl/lib/mx_sampling.glsl"
+dest_files=["res://.godot/imported/mx_sampling.glsl-247f42bd60dab3617c9b1935f04b63cc.res"]
 
 [params]
 

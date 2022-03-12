@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://bsax7i01p5tly"
-path="res://.godot/imported/mx_generalized_schlick_bsdf.glsl-a0c020681d3a77477b06bc8c955e8196.res"
+path="res://.godot/imported/mx_generalized_schlick_bsdf.glsl-190a11c1e7d0743091d400f3740f4e37.res"
 
 [deps]
 
-source_file="res://libraries/pbrlib/genglsl/mx_generalized_schlick_bsdf.glsl"
-dest_files=["res://.godot/imported/mx_generalized_schlick_bsdf.glsl-a0c020681d3a77477b06bc8c955e8196.res"]
+source_file="res://resources/libraries/pbrlib/genglsl/mx_generalized_schlick_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_generalized_schlick_bsdf.glsl-190a11c1e7d0743091d400f3740f4e37.res"]
 
 [params]
 

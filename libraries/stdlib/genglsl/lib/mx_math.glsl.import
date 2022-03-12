@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://rl6vqnpyacgl"
-path="res://.godot/imported/mx_math.glsl-fc4729f3dfc2d25e1b71ae9c8033063a.res"
+path="res://.godot/imported/mx_math.glsl-89cce2ce9eedf9a342cd7c797ac8f60b.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/lib/mx_math.glsl"
-dest_files=["res://.godot/imported/mx_math.glsl-fc4729f3dfc2d25e1b71ae9c8033063a.res"]
+source_file="res://resources/libraries/stdlib/genglsl/lib/mx_math.glsl"
+dest_files=["res://.godot/imported/mx_math.glsl-89cce2ce9eedf9a342cd7c797ac8f60b.res"]
 
 [params]
 

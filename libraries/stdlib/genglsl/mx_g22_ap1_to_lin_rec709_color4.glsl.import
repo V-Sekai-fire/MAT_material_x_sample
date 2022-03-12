@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://bw6v2em07jjih"
-path="res://.godot/imported/mx_g22_ap1_to_lin_rec709_color4.glsl-61e314e2d1faa06979ce91ec3f46bf6f.res"
+path="res://.godot/imported/mx_g22_ap1_to_lin_rec709_color4.glsl-d77bf2fc87ff36173752d9c26afa8c55.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_g22_ap1_to_lin_rec709_color4.glsl"
-dest_files=["res://.godot/imported/mx_g22_ap1_to_lin_rec709_color4.glsl-61e314e2d1faa06979ce91ec3f46bf6f.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_g22_ap1_to_lin_rec709_color4.glsl"
+dest_files=["res://.godot/imported/mx_g22_ap1_to_lin_rec709_color4.glsl-d77bf2fc87ff36173752d9c26afa8c55.res"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://coxl47j77rnbw"
-path="res://.godot/imported/mx_rotate_vector3.glsl-d005b64901141abbc7d75b632b0fbf09.res"
+path="res://.godot/imported/mx_rotate_vector3.glsl-33be22c02f836cf030b810d9eaeaa067.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_rotate_vector3.glsl"
-dest_files=["res://.godot/imported/mx_rotate_vector3.glsl-d005b64901141abbc7d75b632b0fbf09.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_rotate_vector3.glsl"
+dest_files=["res://.godot/imported/mx_rotate_vector3.glsl-33be22c02f836cf030b810d9eaeaa067.res"]
 
 [params]
 

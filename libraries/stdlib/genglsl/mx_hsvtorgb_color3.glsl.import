@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://dkjvtbuwumqm4"
-path="res://.godot/imported/mx_hsvtorgb_color3.glsl-ad4b87dd822e37e97c22229f4da3f5dc.res"
+path="res://.godot/imported/mx_hsvtorgb_color3.glsl-5ecff8e58a49e3e0cbb0d299497bcdc6.res"
 
 [deps]
 
-source_file="res://libraries/stdlib/genglsl/mx_hsvtorgb_color3.glsl"
-dest_files=["res://.godot/imported/mx_hsvtorgb_color3.glsl-ad4b87dd822e37e97c22229f4da3f5dc.res"]
+source_file="res://resources/libraries/stdlib/genglsl/mx_hsvtorgb_color3.glsl"
+dest_files=["res://.godot/imported/mx_hsvtorgb_color3.glsl-5ecff8e58a49e3e0cbb0d299497bcdc6.res"]
 
 [params]
 
