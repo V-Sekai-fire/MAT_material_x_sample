@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di0qe54wa1krj"
-path.s3tc="res://.godot/imported/mesh_wire_cutout.png-023a73b2e78e581055919c3df403a536.s3tc.ctex"
-path.etc2="res://.godot/imported/mesh_wire_cutout.png-023a73b2e78e581055919c3df403a536.etc2.ctex"
+path.s3tc="res://.godot/imported/mesh_wire_cutout.png-9a6793fe03ea5c878bce4bcc2d16cc13.s3tc.ctex"
+path.etc2="res://.godot/imported/mesh_wire_cutout.png-9a6793fe03ea5c878bce4bcc2d16cc13.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/libraries/metal/textures/mesh_wire_cutout.png"
-dest_files=["res://.godot/imported/mesh_wire_cutout.png-023a73b2e78e581055919c3df403a536.s3tc.ctex", "res://.godot/imported/mesh_wire_cutout.png-023a73b2e78e581055919c3df403a536.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/libraries/metal/textures/mesh_wire_cutout.png"
+dest_files=["res://.godot/imported/mesh_wire_cutout.png-9a6793fe03ea5c878bce4bcc2d16cc13.s3tc.ctex", "res://.godot/imported/mesh_wire_cutout.png-9a6793fe03ea5c878bce4bcc2d16cc13.etc2.ctex"]
 
 [params]
 

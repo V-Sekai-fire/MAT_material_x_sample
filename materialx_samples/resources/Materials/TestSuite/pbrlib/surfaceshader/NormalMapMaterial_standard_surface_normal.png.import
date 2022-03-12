@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2kbih1mvp6i0"
-path.s3tc="res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-529d0a69d480e4f4bc881601731a8911.s3tc.ctex"
-path.etc2="res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-529d0a69d480e4f4bc881601731a8911.etc2.ctex"
+path.s3tc="res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-90370ad448ec86e34ffb14df2dd85c89.s3tc.ctex"
+path.etc2="res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-90370ad448ec86e34ffb14df2dd85c89.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/pbrlib/surfaceshader/NormalMapMaterial_standard_surface_normal.png"
-dest_files=["res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-529d0a69d480e4f4bc881601731a8911.s3tc.ctex", "res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-529d0a69d480e4f4bc881601731a8911.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/NormalMapMaterial_standard_surface_normal.png"
+dest_files=["res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-90370ad448ec86e34ffb14df2dd85c89.s3tc.ctex", "res://.godot/imported/NormalMapMaterial_standard_surface_normal.png-90370ad448ec86e34ffb14df2dd85c89.etc2.ctex"]
 
 [params]
 

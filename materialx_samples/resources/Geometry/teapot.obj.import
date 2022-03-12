@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwrf1kbt8isfa"
-path="res://.godot/imported/teapot.obj-68110da99861d381f45f6ec9feb12178.scn"
+path="res://.godot/imported/teapot.obj-00606f2ee82ea59404bff784707e50c7.scn"
 
 [deps]
 
-source_file="res://resources/Geometry/teapot.obj"
-dest_files=["res://.godot/imported/teapot.obj-68110da99861d381f45f6ec9feb12178.scn"]
+source_file="res://materialx_samples/resources/Geometry/teapot.obj"
+dest_files=["res://.godot/imported/teapot.obj-00606f2ee82ea59404bff784707e50c7.scn"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://dpmcxo7viw8ku"
-path="res://.godot/imported/mx_ramplr_float.glsl-6a1695ede86db2616bddc0e86b66cae2.res"
+path="res://.godot/imported/mx_ramplr_float.glsl-ed6060653b3333964b008e090b7dd919.res"
 
 [deps]
 
-source_file="res://resources/libraries/stdlib/genglsl/mx_ramplr_float.glsl"
-dest_files=["res://.godot/imported/mx_ramplr_float.glsl-6a1695ede86db2616bddc0e86b66cae2.res"]
+source_file="res://libraries/stdlib/genglsl/mx_ramplr_float.glsl"
+dest_files=["res://.godot/imported/mx_ramplr_float.glsl-ed6060653b3333964b008e090b7dd919.res"]
 
 [params]
 

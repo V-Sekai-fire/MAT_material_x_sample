@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dyypnf265pkw2"
-path.s3tc="res://.godot/imported/wood_roughness.jpg-448a9ee558723fc52e70c46577e229dd.s3tc.ctex"
-path.etc2="res://.godot/imported/wood_roughness.jpg-448a9ee558723fc52e70c46577e229dd.etc2.ctex"
+path.s3tc="res://.godot/imported/wood_roughness.jpg-7cb9e137cfa3c21b688820b5a48e9413.s3tc.ctex"
+path.etc2="res://.godot/imported/wood_roughness.jpg-7cb9e137cfa3c21b688820b5a48e9413.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/wood_roughness.jpg"
-dest_files=["res://.godot/imported/wood_roughness.jpg-448a9ee558723fc52e70c46577e229dd.s3tc.ctex", "res://.godot/imported/wood_roughness.jpg-448a9ee558723fc52e70c46577e229dd.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/wood_roughness.jpg"
+dest_files=["res://.godot/imported/wood_roughness.jpg-7cb9e137cfa3c21b688820b5a48e9413.s3tc.ctex", "res://.godot/imported/wood_roughness.jpg-7cb9e137cfa3c21b688820b5a48e9413.etc2.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqlcu4bkiv7g5"
-path.s3tc="res://.godot/imported/BoomBox_emissive.png-6ce68ad624bc0558ac479f6242fdcfb5.s3tc.ctex"
-path.etc2="res://.godot/imported/BoomBox_emissive.png-6ce68ad624bc0558ac479f6242fdcfb5.etc2.ctex"
+path.s3tc="res://.godot/imported/BoomBox_emissive.png-7314b26f5831b2fb1bb08a2b4385659a.s3tc.ctex"
+path.etc2="res://.godot/imported/BoomBox_emissive.png-7314b26f5831b2fb1bb08a2b4385659a.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/boombox/BoomBox_emissive.png"
-dest_files=["res://.godot/imported/BoomBox_emissive.png-6ce68ad624bc0558ac479f6242fdcfb5.s3tc.ctex", "res://.godot/imported/BoomBox_emissive.png-6ce68ad624bc0558ac479f6242fdcfb5.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/boombox/BoomBox_emissive.png"
+dest_files=["res://.godot/imported/BoomBox_emissive.png-7314b26f5831b2fb1bb08a2b4385659a.s3tc.ctex", "res://.godot/imported/BoomBox_emissive.png-7314b26f5831b2fb1bb08a2b4385659a.etc2.ctex"]
 
 [params]
 

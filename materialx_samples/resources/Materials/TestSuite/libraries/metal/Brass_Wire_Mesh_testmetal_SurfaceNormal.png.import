@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwb1l1ylkthej"
-path.s3tc="res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-d1bd4768e7155bcb72d7a242361819ee.s3tc.ctex"
-path.etc2="res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-d1bd4768e7155bcb72d7a242361819ee.etc2.ctex"
+path.s3tc="res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-cd93df49e6e389d6ff2bec0888335356.s3tc.ctex"
+path.etc2="res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-cd93df49e6e389d6ff2bec0888335356.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/libraries/metal/Brass_Wire_Mesh_testmetal_SurfaceNormal.png"
-dest_files=["res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-d1bd4768e7155bcb72d7a242361819ee.s3tc.ctex", "res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-d1bd4768e7155bcb72d7a242361819ee.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/libraries/metal/Brass_Wire_Mesh_testmetal_SurfaceNormal.png"
+dest_files=["res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-cd93df49e6e389d6ff2bec0888335356.s3tc.ctex", "res://.godot/imported/Brass_Wire_Mesh_testmetal_SurfaceNormal.png-cd93df49e6e389d6ff2bec0888335356.etc2.ctex"]
 
 [params]
 

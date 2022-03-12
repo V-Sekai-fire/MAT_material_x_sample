@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://b2cndv01v5n1u"
-path="res://.godot/imported/mx_normalmap.glsl-b3076532b531c1ad46040047ccbdd1c0.res"
+path="res://.godot/imported/mx_normalmap.glsl-e9309549c37289f2857af23d5148a15d.res"
 
 [deps]
 
-source_file="res://resources/libraries/stdlib/genglsl/mx_normalmap.glsl"
-dest_files=["res://.godot/imported/mx_normalmap.glsl-b3076532b531c1ad46040047ccbdd1c0.res"]
+source_file="res://libraries/stdlib/genglsl/mx_normalmap.glsl"
+dest_files=["res://.godot/imported/mx_normalmap.glsl-e9309549c37289f2857af23d5148a15d.res"]
 
 [params]
 

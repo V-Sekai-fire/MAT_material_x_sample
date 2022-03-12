@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cglg3pe8k67mr"
-path.s3tc="res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-49c252394232b6baa73f7bee51f3366b.s3tc.ctex"
-path.etc2="res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-49c252394232b6baa73f7bee51f3366b.etc2.ctex"
+path.s3tc="res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-a19cbcc59e7d183225795e3df79210a2.s3tc.ctex"
+path.etc2="res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-a19cbcc59e7d183225795e3df79210a2.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/stdlib/color_management/Filename_CM_Test_standard_surface_base_color.png"
-dest_files=["res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-49c252394232b6baa73f7bee51f3366b.s3tc.ctex", "res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-49c252394232b6baa73f7bee51f3366b.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/color_management/Filename_CM_Test_standard_surface_base_color.png"
+dest_files=["res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-a19cbcc59e7d183225795e3df79210a2.s3tc.ctex", "res://.godot/imported/Filename_CM_Test_standard_surface_base_color.png-a19cbcc59e7d183225795e3df79210a2.etc2.ctex"]
 
 [params]
 

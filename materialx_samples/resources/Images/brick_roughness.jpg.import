@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3kaj1bbxljtw"
-path.s3tc="res://.godot/imported/brick_roughness.jpg-0f3c0efdf11c797c05cbf4046cf1b7b9.s3tc.ctex"
-path.etc2="res://.godot/imported/brick_roughness.jpg-0f3c0efdf11c797c05cbf4046cf1b7b9.etc2.ctex"
+path.s3tc="res://.godot/imported/brick_roughness.jpg-2dc3370dfe98a7022b1cf2b6a5203a71.s3tc.ctex"
+path.etc2="res://.godot/imported/brick_roughness.jpg-2dc3370dfe98a7022b1cf2b6a5203a71.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/brick_roughness.jpg"
-dest_files=["res://.godot/imported/brick_roughness.jpg-0f3c0efdf11c797c05cbf4046cf1b7b9.s3tc.ctex", "res://.godot/imported/brick_roughness.jpg-0f3c0efdf11c797c05cbf4046cf1b7b9.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/brick_roughness.jpg"
+dest_files=["res://.godot/imported/brick_roughness.jpg-2dc3370dfe98a7022b1cf2b6a5203a71.s3tc.ctex", "res://.godot/imported/brick_roughness.jpg-2dc3370dfe98a7022b1cf2b6a5203a71.etc2.ctex"]
 
 [params]
 

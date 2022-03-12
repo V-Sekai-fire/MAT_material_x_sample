@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0gx2wai61l8g"
-path.s3tc="res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.s3tc.ctex"
-path.etc2="res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.etc2.ctex"
+path.s3tc="res://.godot/imported/goegap_split.hdr-93c69ccd3680348b956047180d8e36e7.s3tc.ctex"
+path.etc2="res://.godot/imported/goegap_split.hdr-93c69ccd3680348b956047180d8e36e7.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Lights/goegap_split.hdr"
-dest_files=["res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.s3tc.ctex", "res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.etc2.ctex"]
+source_file="res://materialx_samples/resources/Lights/goegap_split.hdr"
+dest_files=["res://.godot/imported/goegap_split.hdr-93c69ccd3680348b956047180d8e36e7.s3tc.ctex", "res://.godot/imported/goegap_split.hdr-93c69ccd3680348b956047180d8e36e7.etc2.ctex"]
 
 [params]
 

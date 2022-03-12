@@ -3,12 +3,12 @@
 importer="glsl"
 type="RDShaderFile"
 uid="uid://di8r7h5g7vaxk"
-path="res://.godot/imported/mx_noise3d_fa_vector3.glsl-63bd3b93d4284e2787c5c81c83b6962d.res"
+path="res://.godot/imported/mx_noise3d_fa_vector3.glsl-13660ac4c3b103a8d0f4ba836b875784.res"
 
 [deps]
 
-source_file="res://resources/libraries/stdlib/genglsl/mx_noise3d_fa_vector3.glsl"
-dest_files=["res://.godot/imported/mx_noise3d_fa_vector3.glsl-63bd3b93d4284e2787c5c81c83b6962d.res"]
+source_file="res://libraries/stdlib/genglsl/mx_noise3d_fa_vector3.glsl"
+dest_files=["res://.godot/imported/mx_noise3d_fa_vector3.glsl-13660ac4c3b103a8d0f4ba836b875784.res"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://do5s2bv7no3ei"
-path.s3tc="res://.godot/imported/brass_color.jpg-19d55f16ca71fffb2423dacaf54cd659.s3tc.ctex"
-path.etc2="res://.godot/imported/brass_color.jpg-19d55f16ca71fffb2423dacaf54cd659.etc2.ctex"
+path.s3tc="res://.godot/imported/brass_color.jpg-f18ebf59b9594a6aaf08bd58b9f76872.s3tc.ctex"
+path.etc2="res://.godot/imported/brass_color.jpg-f18ebf59b9594a6aaf08bd58b9f76872.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/brass_color.jpg"
-dest_files=["res://.godot/imported/brass_color.jpg-19d55f16ca71fffb2423dacaf54cd659.s3tc.ctex", "res://.godot/imported/brass_color.jpg-19d55f16ca71fffb2423dacaf54cd659.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/brass_color.jpg"
+dest_files=["res://.godot/imported/brass_color.jpg-f18ebf59b9594a6aaf08bd58b9f76872.s3tc.ctex", "res://.godot/imported/brass_color.jpg-f18ebf59b9594a6aaf08bd58b9f76872.etc2.ctex"]
 
 [params]
 

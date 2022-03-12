@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ci5t7i6247rf0"
+path="res://.godot/imported/mx_luminance_color4.glsl-98bb783e5b10d97b51181e3e019f291c.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_luminance_color4.glsl"
+dest_files=["res://.godot/imported/mx_luminance_color4.glsl-98bb783e5b10d97b51181e3e019f291c.res"]
+
+[params]
+

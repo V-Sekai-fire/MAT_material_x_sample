@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcswlbnqst1pt"
-path.s3tc="res://.godot/imported/mesh_wire_spec.png-c1d219a2cc8ee74270f6fdb3914c1b5b.s3tc.ctex"
-path.etc2="res://.godot/imported/mesh_wire_spec.png-c1d219a2cc8ee74270f6fdb3914c1b5b.etc2.ctex"
+path.s3tc="res://.godot/imported/mesh_wire_spec.png-6d7b70572dfc90d4ae1c3f6e359b0dfb.s3tc.ctex"
+path.etc2="res://.godot/imported/mesh_wire_spec.png-6d7b70572dfc90d4ae1c3f6e359b0dfb.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/libraries/metal/textures/mesh_wire_spec.png"
-dest_files=["res://.godot/imported/mesh_wire_spec.png-c1d219a2cc8ee74270f6fdb3914c1b5b.s3tc.ctex", "res://.godot/imported/mesh_wire_spec.png-c1d219a2cc8ee74270f6fdb3914c1b5b.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/libraries/metal/textures/mesh_wire_spec.png"
+dest_files=["res://.godot/imported/mesh_wire_spec.png-6d7b70572dfc90d4ae1c3f6e359b0dfb.s3tc.ctex", "res://.godot/imported/mesh_wire_spec.png-6d7b70572dfc90d4ae1c3f6e359b0dfb.etc2.ctex"]
 
 [params]
 

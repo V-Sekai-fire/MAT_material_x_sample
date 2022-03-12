@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d23rk14mrqp4b"
-path.s3tc="res://.godot/imported/shaderball_ao.png-4d64ead1fc99ccaa0550e089591c84a3.s3tc.ctex"
-path.etc2="res://.godot/imported/shaderball_ao.png-4d64ead1fc99ccaa0550e089591c84a3.etc2.ctex"
+path.s3tc="res://.godot/imported/shaderball_ao.png-52b029653fca556c32926abb82032c9b.s3tc.ctex"
+path.etc2="res://.godot/imported/shaderball_ao.png-52b029653fca556c32926abb82032c9b.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Geometry/shaderball_ao.png"
-dest_files=["res://.godot/imported/shaderball_ao.png-4d64ead1fc99ccaa0550e089591c84a3.s3tc.ctex", "res://.godot/imported/shaderball_ao.png-4d64ead1fc99ccaa0550e089591c84a3.etc2.ctex"]
+source_file="res://materialx_samples/resources/Geometry/shaderball_ao.png"
+dest_files=["res://.godot/imported/shaderball_ao.png-52b029653fca556c32926abb82032c9b.s3tc.ctex", "res://.godot/imported/shaderball_ao.png-52b029653fca556c32926abb82032c9b.etc2.ctex"]
 
 [params]
 

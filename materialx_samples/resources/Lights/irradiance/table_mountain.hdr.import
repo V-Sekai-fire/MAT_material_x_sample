@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cs2k5jh7cvplq"
-path.s3tc="res://.godot/imported/table_mountain.hdr-74bfb7a444a3aed7ed9da5951985db2d.s3tc.ctex"
-path.etc2="res://.godot/imported/table_mountain.hdr-74bfb7a444a3aed7ed9da5951985db2d.etc2.ctex"
+path.s3tc="res://.godot/imported/table_mountain.hdr-546413bb72c91c40a38e2927f93db15b.s3tc.ctex"
+path.etc2="res://.godot/imported/table_mountain.hdr-546413bb72c91c40a38e2927f93db15b.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Lights/irradiance/table_mountain.hdr"
-dest_files=["res://.godot/imported/table_mountain.hdr-74bfb7a444a3aed7ed9da5951985db2d.s3tc.ctex", "res://.godot/imported/table_mountain.hdr-74bfb7a444a3aed7ed9da5951985db2d.etc2.ctex"]
+source_file="res://materialx_samples/resources/Lights/irradiance/table_mountain.hdr"
+dest_files=["res://.godot/imported/table_mountain.hdr-546413bb72c91c40a38e2927f93db15b.s3tc.ctex", "res://.godot/imported/table_mountain.hdr-546413bb72c91c40a38e2927f93db15b.etc2.ctex"]
 
 [params]
 

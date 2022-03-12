@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwbmij7vvqnra"
-path.s3tc="res://.godot/imported/brick_mask.jpg-d48a9d32c94089aad1a870b34fc4807d.s3tc.ctex"
-path.etc2="res://.godot/imported/brick_mask.jpg-d48a9d32c94089aad1a870b34fc4807d.etc2.ctex"
+path.s3tc="res://.godot/imported/brick_mask.jpg-2507318f80e283e28d12686aaf6ffb27.s3tc.ctex"
+path.etc2="res://.godot/imported/brick_mask.jpg-2507318f80e283e28d12686aaf6ffb27.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/brick_mask.jpg"
-dest_files=["res://.godot/imported/brick_mask.jpg-d48a9d32c94089aad1a870b34fc4807d.s3tc.ctex", "res://.godot/imported/brick_mask.jpg-d48a9d32c94089aad1a870b34fc4807d.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/brick_mask.jpg"
+dest_files=["res://.godot/imported/brick_mask.jpg-2507318f80e283e28d12686aaf6ffb27.s3tc.ctex", "res://.godot/imported/brick_mask.jpg-2507318f80e283e28d12686aaf6ffb27.etc2.ctex"]
 
 [params]
 

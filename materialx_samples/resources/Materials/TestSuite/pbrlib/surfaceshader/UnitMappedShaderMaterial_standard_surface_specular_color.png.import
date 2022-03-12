@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdvl87wt7lk5r"
-path.s3tc="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-9a4284f9e8fe5d41d1c825e5455c394d.s3tc.ctex"
-path.etc2="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-9a4284f9e8fe5d41d1c825e5455c394d.etc2.ctex"
+path.s3tc="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-b6d1d696c4df089fc9cac8a5ccef4f9d.s3tc.ctex"
+path.etc2="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-b6d1d696c4df089fc9cac8a5ccef4f9d.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/pbrlib/surfaceshader/UnitMappedShaderMaterial_standard_surface_specular_color.png"
-dest_files=["res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-9a4284f9e8fe5d41d1c825e5455c394d.s3tc.ctex", "res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-9a4284f9e8fe5d41d1c825e5455c394d.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/UnitMappedShaderMaterial_standard_surface_specular_color.png"
+dest_files=["res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-b6d1d696c4df089fc9cac8a5ccef4f9d.s3tc.ctex", "res://.godot/imported/UnitMappedShaderMaterial_standard_surface_specular_color.png-b6d1d696c4df089fc9cac8a5ccef4f9d.etc2.ctex"]
 
 [params]
 

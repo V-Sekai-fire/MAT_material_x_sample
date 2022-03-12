@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://t3nvqshfq2o3"
-path="res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.scn"
+path="res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.scn"
 
 [deps]
 
-source_file="res://resources/Geometry/plane.obj"
-dest_files=["res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.scn"]
+source_file="res://materialx_samples/resources/Geometry/plane.obj"
+dest_files=["res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.scn"]
 
 [params]
 

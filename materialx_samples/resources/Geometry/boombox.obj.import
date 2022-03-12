@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dyaehkdjnck5i"
-path="res://.godot/imported/boombox.obj-bfe00cb1ab994a23739ed5e68bc01826.scn"
+path="res://.godot/imported/boombox.obj-9460dedbaee1be0a5ed449b318cd7190.scn"
 
 [deps]
 
-source_file="res://resources/Geometry/boombox.obj"
-dest_files=["res://.godot/imported/boombox.obj-bfe00cb1ab994a23739ed5e68bc01826.scn"]
+source_file="res://materialx_samples/resources/Geometry/boombox.obj"
+dest_files=["res://.godot/imported/boombox.obj-9460dedbaee1be0a5ed449b318cd7190.scn"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtrafwxlh2krf"
-path.s3tc="res://.godot/imported/cloth.bmp-13807c1f6886b0b18f69b3ff2ee63df4.s3tc.ctex"
-path.etc2="res://.godot/imported/cloth.bmp-13807c1f6886b0b18f69b3ff2ee63df4.etc2.ctex"
+path.s3tc="res://.godot/imported/cloth.bmp-05e98078fbfb17486abf010d88d9f4f3.s3tc.ctex"
+path.etc2="res://.godot/imported/cloth.bmp-05e98078fbfb17486abf010d88d9f4f3.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/cloth.bmp"
-dest_files=["res://.godot/imported/cloth.bmp-13807c1f6886b0b18f69b3ff2ee63df4.s3tc.ctex", "res://.godot/imported/cloth.bmp-13807c1f6886b0b18f69b3ff2ee63df4.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/cloth.bmp"
+dest_files=["res://.godot/imported/cloth.bmp-05e98078fbfb17486abf010d88d9f4f3.s3tc.ctex", "res://.godot/imported/cloth.bmp-05e98078fbfb17486abf010d88d9f4f3.etc2.ctex"]
 
 [params]
 

@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bj8g6gv1jhg8q"
-path.s3tc="res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.s3tc.ctex"
-path.etc2="res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.etc2.ctex"
+path.s3tc="res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.s3tc.ctex"
+path.etc2="res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/wood_color.jpg"
-dest_files=["res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.s3tc.ctex", "res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/wood_color.jpg"
+dest_files=["res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.s3tc.ctex", "res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.etc2.ctex"]
 
 [params]
 

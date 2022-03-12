@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://vtplperyxsy8"
-path.s3tc="res://.godot/imported/surfacematerial1_standard_surface_base_color.png-00f0ab1f1cb686b99329a6dbd62ba972.s3tc.ctex"
-path.etc2="res://.godot/imported/surfacematerial1_standard_surface_base_color.png-00f0ab1f1cb686b99329a6dbd62ba972.etc2.ctex"
+path.s3tc="res://.godot/imported/surfacematerial1_standard_surface_base_color.png-d4634a44c407ad17ddb0e93c71b41908.s3tc.ctex"
+path.etc2="res://.godot/imported/surfacematerial1_standard_surface_base_color.png-d4634a44c407ad17ddb0e93c71b41908.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/stdlib/nodegraph_inputs/surfacematerial1_standard_surface_base_color.png"
-dest_files=["res://.godot/imported/surfacematerial1_standard_surface_base_color.png-00f0ab1f1cb686b99329a6dbd62ba972.s3tc.ctex", "res://.godot/imported/surfacematerial1_standard_surface_base_color.png-00f0ab1f1cb686b99329a6dbd62ba972.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/nodegraph_inputs/surfacematerial1_standard_surface_base_color.png"
+dest_files=["res://.godot/imported/surfacematerial1_standard_surface_base_color.png-d4634a44c407ad17ddb0e93c71b41908.s3tc.ctex", "res://.godot/imported/surfacematerial1_standard_surface_base_color.png-d4634a44c407ad17ddb0e93c71b41908.etc2.ctex"]
 
 [params]
 

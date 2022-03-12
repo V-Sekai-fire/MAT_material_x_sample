@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvc1b6o87ho67"
-path.s3tc="res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-43c52e65d592244f8f062dcba2b7fb7f.s3tc.ctex"
-path.etc2="res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-43c52e65d592244f8f062dcba2b7fb7f.etc2.ctex"
+path.s3tc="res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-319bb1c26253695de928a324c7d2a704.s3tc.ctex"
+path.etc2="res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-319bb1c26253695de928a324c7d2a704.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/stdlib/color_management/Filename_CM_Test_standard_surface_specular_color.png"
-dest_files=["res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-43c52e65d592244f8f062dcba2b7fb7f.s3tc.ctex", "res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-43c52e65d592244f8f062dcba2b7fb7f.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/color_management/Filename_CM_Test_standard_surface_specular_color.png"
+dest_files=["res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-319bb1c26253695de928a324c7d2a704.s3tc.ctex", "res://.godot/imported/Filename_CM_Test_standard_surface_specular_color.png-319bb1c26253695de928a324c7d2a704.etc2.ctex"]
 
 [params]
 

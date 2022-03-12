@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbqxyeoe52csh"
-path.s3tc="res://.godot/imported/san_giuseppe_bridge.hdr-2e4af145343725cb40fc8df3b2778096.s3tc.ctex"
-path.etc2="res://.godot/imported/san_giuseppe_bridge.hdr-2e4af145343725cb40fc8df3b2778096.etc2.ctex"
+path.s3tc="res://.godot/imported/san_giuseppe_bridge.hdr-a6d059916b1c1ebe2b1a4f5a082467ec.s3tc.ctex"
+path.etc2="res://.godot/imported/san_giuseppe_bridge.hdr-a6d059916b1c1ebe2b1a4f5a082467ec.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Lights/san_giuseppe_bridge.hdr"
-dest_files=["res://.godot/imported/san_giuseppe_bridge.hdr-2e4af145343725cb40fc8df3b2778096.s3tc.ctex", "res://.godot/imported/san_giuseppe_bridge.hdr-2e4af145343725cb40fc8df3b2778096.etc2.ctex"]
+source_file="res://materialx_samples/resources/Lights/san_giuseppe_bridge.hdr"
+dest_files=["res://.godot/imported/san_giuseppe_bridge.hdr-a6d059916b1c1ebe2b1a4f5a082467ec.s3tc.ctex", "res://.godot/imported/san_giuseppe_bridge.hdr-a6d059916b1c1ebe2b1a4f5a082467ec.etc2.ctex"]
 
 [params]
 

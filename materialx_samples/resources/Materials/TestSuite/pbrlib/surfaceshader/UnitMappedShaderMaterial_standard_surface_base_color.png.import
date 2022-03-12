@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ca2bna72ndeuj"
-path.s3tc="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-5056be460a948a2406781962f0f4ab55.s3tc.ctex"
-path.etc2="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-5056be460a948a2406781962f0f4ab55.etc2.ctex"
+path.s3tc="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-36a87b7d4ed55c450a39dd8342cc0d2f.s3tc.ctex"
+path.etc2="res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-36a87b7d4ed55c450a39dd8342cc0d2f.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Materials/TestSuite/pbrlib/surfaceshader/UnitMappedShaderMaterial_standard_surface_base_color.png"
-dest_files=["res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-5056be460a948a2406781962f0f4ab55.s3tc.ctex", "res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-5056be460a948a2406781962f0f4ab55.etc2.ctex"]
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/UnitMappedShaderMaterial_standard_surface_base_color.png"
+dest_files=["res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-36a87b7d4ed55c450a39dd8342cc0d2f.s3tc.ctex", "res://.godot/imported/UnitMappedShaderMaterial_standard_surface_base_color.png-36a87b7d4ed55c450a39dd8342cc0d2f.etc2.ctex"]
 
 [params]
 

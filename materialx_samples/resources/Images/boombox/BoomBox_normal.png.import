@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2aw2dinyp3l2"
-path.s3tc="res://.godot/imported/BoomBox_normal.png-c582444c2ce8562eb6b532d891869165.s3tc.ctex"
-path.etc2="res://.godot/imported/BoomBox_normal.png-c582444c2ce8562eb6b532d891869165.etc2.ctex"
+path.s3tc="res://.godot/imported/BoomBox_normal.png-e8d17f578db1a794e9b98d3b4872dfcd.s3tc.ctex"
+path.etc2="res://.godot/imported/BoomBox_normal.png-e8d17f578db1a794e9b98d3b4872dfcd.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/boombox/BoomBox_normal.png"
-dest_files=["res://.godot/imported/BoomBox_normal.png-c582444c2ce8562eb6b532d891869165.s3tc.ctex", "res://.godot/imported/BoomBox_normal.png-c582444c2ce8562eb6b532d891869165.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/boombox/BoomBox_normal.png"
+dest_files=["res://.godot/imported/BoomBox_normal.png-e8d17f578db1a794e9b98d3b4872dfcd.s3tc.ctex", "res://.godot/imported/BoomBox_normal.png-e8d17f578db1a794e9b98d3b4872dfcd.etc2.ctex"]
 
 [params]
 

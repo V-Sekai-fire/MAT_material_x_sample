@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbv0v85nmir8a"
-path.s3tc="res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-20ff5dec3fd023459ad93b08600b159e.s3tc.ctex"
-path.etc2="res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-20ff5dec3fd023459ad93b08600b159e.etc2.ctex"
+path.s3tc="res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-726cc1e8f51ee3930bdc8792dbde06a3.s3tc.ctex"
+path.etc2="res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-726cc1e8f51ee3930bdc8792dbde06a3.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/boombox/BoomBox_occlusionRoughnessMetallic.png"
-dest_files=["res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-20ff5dec3fd023459ad93b08600b159e.s3tc.ctex", "res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-20ff5dec3fd023459ad93b08600b159e.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/boombox/BoomBox_occlusionRoughnessMetallic.png"
+dest_files=["res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-726cc1e8f51ee3930bdc8792dbde06a3.s3tc.ctex", "res://.godot/imported/BoomBox_occlusionRoughnessMetallic.png-726cc1e8f51ee3930bdc8792dbde06a3.etc2.ctex"]
 
 [params]
 

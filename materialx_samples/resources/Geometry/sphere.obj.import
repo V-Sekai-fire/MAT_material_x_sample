@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b84dgut0lloh0"
-path="res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.scn"
+path="res://.godot/imported/sphere.obj-ab4bc6927a702ea3394e3a4fea1c45e0.scn"
 
 [deps]
 
-source_file="res://resources/Geometry/sphere.obj"
-dest_files=["res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.scn"]
+source_file="res://materialx_samples/resources/Geometry/sphere.obj"
+dest_files=["res://.godot/imported/sphere.obj-ab4bc6927a702ea3394e3a4fea1c45e0.scn"]
 
 [params]
 

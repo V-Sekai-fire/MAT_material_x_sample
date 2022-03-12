@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b33xbib33htop"
-path.s3tc="res://.godot/imported/table_mountain_split.hdr-0fb536eb4133c7c1ebbde22b1eeec40e.s3tc.ctex"
-path.etc2="res://.godot/imported/table_mountain_split.hdr-0fb536eb4133c7c1ebbde22b1eeec40e.etc2.ctex"
+path.s3tc="res://.godot/imported/table_mountain_split.hdr-64c7a36c5f709764ce54a0410336e0db.s3tc.ctex"
+path.etc2="res://.godot/imported/table_mountain_split.hdr-64c7a36c5f709764ce54a0410336e0db.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Lights/irradiance/table_mountain_split.hdr"
-dest_files=["res://.godot/imported/table_mountain_split.hdr-0fb536eb4133c7c1ebbde22b1eeec40e.s3tc.ctex", "res://.godot/imported/table_mountain_split.hdr-0fb536eb4133c7c1ebbde22b1eeec40e.etc2.ctex"]
+source_file="res://materialx_samples/resources/Lights/irradiance/table_mountain_split.hdr"
+dest_files=["res://.godot/imported/table_mountain_split.hdr-64c7a36c5f709764ce54a0410336e0db.s3tc.ctex", "res://.godot/imported/table_mountain_split.hdr-64c7a36c5f709764ce54a0410336e0db.etc2.ctex"]
 
 [params]
 

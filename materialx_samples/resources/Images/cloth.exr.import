@@ -3,8 +3,8 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ds62cdh84q4b7"
-path.s3tc="res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.s3tc.ctex"
-path.etc2="res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.etc2.ctex"
+path.s3tc="res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.s3tc.ctex"
+path.etc2="res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc", "etc2"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://resources/Images/cloth.exr"
-dest_files=["res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.s3tc.ctex", "res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.etc2.ctex"]
+source_file="res://materialx_samples/resources/Images/cloth.exr"
+dest_files=["res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.s3tc.ctex", "res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.etc2.ctex"]
 
 [params]
 
