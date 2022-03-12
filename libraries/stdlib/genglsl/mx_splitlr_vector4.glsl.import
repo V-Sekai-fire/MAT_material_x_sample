@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bqvmuvgjc6161"
+path="res://.godot/imported/mx_splitlr_vector4.glsl-4d10bb7ae91e80a31a26938208a30c03.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_splitlr_vector4.glsl"
+dest_files=["res://.godot/imported/mx_splitlr_vector4.glsl-4d10bb7ae91e80a31a26938208a30c03.res"]
+
+[params]
+

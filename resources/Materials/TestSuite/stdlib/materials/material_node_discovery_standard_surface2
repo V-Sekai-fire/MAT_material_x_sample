@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<materialx version="1.38">
+  <standard_surface name="standard_surface2_baked" type="surfaceshader" />
+  <surfacematerial name="surfacematerial1_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="standard_surface2_baked" />
+  </surfacematerial>
+</materialx>

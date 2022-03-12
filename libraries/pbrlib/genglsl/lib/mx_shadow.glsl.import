@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://da4fpg0pnlcwy"
+path="res://.godot/imported/mx_shadow.glsl-bedf5277e5ab918822b6d0efd1b836d1.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/lib/mx_shadow.glsl"
+dest_files=["res://.godot/imported/mx_shadow.glsl-bedf5277e5ab918822b6d0efd1b836d1.res"]
+
+[params]
+

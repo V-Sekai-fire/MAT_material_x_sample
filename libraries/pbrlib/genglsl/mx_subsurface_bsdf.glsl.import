@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://0tvkswijye23"
+path="res://.godot/imported/mx_subsurface_bsdf.glsl-a89a18481a5313afbd888b1c694509bf.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_subsurface_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_subsurface_bsdf.glsl-a89a18481a5313afbd888b1c694509bf.res"]
+
+[params]
+

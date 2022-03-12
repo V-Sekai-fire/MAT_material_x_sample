@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bgt710onnakd6"
+path="res://.godot/imported/mx_fractal3d_vector2.glsl-caf0ca208622073767f4f5fa7587b856.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_fractal3d_vector2.glsl"
+dest_files=["res://.godot/imported/mx_fractal3d_vector2.glsl-caf0ca208622073767f4f5fa7587b856.res"]
+
+[params]
+

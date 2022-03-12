@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://blemc7u70wchk"
+path="res://.godot/imported/mx_translucent_bsdf.glsl-c74ba38ef49aff62c5b31b376b8f80b3.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_translucent_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_translucent_bsdf.glsl-c74ba38ef49aff62c5b31b376b8f80b3.res"]
+
+[params]
+

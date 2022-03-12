@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ddyfqy5pigajp"
+path="res://.godot/imported/mx_splitlr_float.glsl-57d700e75def18d111f56290d28f93f3.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_splitlr_float.glsl"
+dest_files=["res://.godot/imported/mx_splitlr_float.glsl-57d700e75def18d111f56290d28f93f3.res"]
+
+[params]
+

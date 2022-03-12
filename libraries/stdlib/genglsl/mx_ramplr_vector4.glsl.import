@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://1ildy5metvsd"
+path="res://.godot/imported/mx_ramplr_vector4.glsl-6639bf68304a7c9d73f98f07d9cc8796.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_ramplr_vector4.glsl"
+dest_files=["res://.godot/imported/mx_ramplr_vector4.glsl-6639bf68304a7c9d73f98f07d9cc8796.res"]
+
+[params]
+

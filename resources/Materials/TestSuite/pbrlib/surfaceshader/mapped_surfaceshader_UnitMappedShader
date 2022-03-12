@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<materialx version="1.38">
+  <nodegraph name="NG_baked" colorspace="srgb_texture">
+    <image name="base_baked" type="float">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\pbrlib\surfaceshader\UnitMappedShaderMaterial_standard_surface_base.png" />
+    </image>
+    <output name="base_output" type="float" nodename="base_baked" />
+    <image name="base_color_baked" type="color3">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\pbrlib\surfaceshader\UnitMappedShaderMaterial_standard_surface_base_color.png" />
+    </image>
+    <output name="base_color_output" type="color3" nodename="base_color_baked" />
+    <image name="specular_color_baked" type="color3">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\pbrlib\surfaceshader\UnitMappedShaderMaterial_standard_surface_specular_color.png" />
+    </image>
+    <output name="specular_color_output" type="color3" nodename="specular_color_baked" />
+  </nodegraph>
+  <standard_surface name="UnitMappedShader_baked" type="surfaceshader">
+    <input name="base" type="float" output="base_output" nodegraph="NG_baked" />
+    <input name="base_color" type="color3" output="base_color_output" nodegraph="NG_baked" />
+    <input name="metalness" type="float" value="0.1" />
+    <input name="specular" type="float" value="1" />
+    <input name="specular_color" type="color3" output="specular_color_output" nodegraph="NG_baked" />
+  </standard_surface>
+  <surfacematerial name="UnitMappedShaderMaterial_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="UnitMappedShader_baked" />
+  </surfacematerial>
+</materialx>

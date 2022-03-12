@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://7yujdkm6266u"
+path="res://.godot/imported/mx_sheen_bsdf.glsl-9ed7a5aa795c15405f68a29c833d2f41.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_sheen_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_sheen_bsdf.glsl-9ed7a5aa795c15405f68a29c833d2f41.res"]
+
+[params]
+

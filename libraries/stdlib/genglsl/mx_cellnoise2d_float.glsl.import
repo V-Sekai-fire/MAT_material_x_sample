@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://q40o76u3lca5"
+path="res://.godot/imported/mx_cellnoise2d_float.glsl-5393c220d0c07c5a98fad906cdb94a2b.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_cellnoise2d_float.glsl"
+dest_files=["res://.godot/imported/mx_cellnoise2d_float.glsl-5393c220d0c07c5a98fad906cdb94a2b.res"]
+
+[params]
+

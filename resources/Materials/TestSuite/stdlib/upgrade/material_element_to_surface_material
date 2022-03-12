@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<materialx version="1.38">
+  <standard_surface name="my_surface2_baked" type="surfaceshader">
+    <input name="base_color" type="color3" value="0.92549, 0.615686, 0.615686" colorspace="srgb_texture" />
+  </standard_surface>
+  <surfacematerial name="my_surface_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="my_surface2_baked" />
+  </surfacematerial>
+</materialx>

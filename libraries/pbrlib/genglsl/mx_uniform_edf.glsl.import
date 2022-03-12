@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://ds8qkxbpxkncd"
+path="res://.godot/imported/mx_uniform_edf.glsl-56af7a9da0603a957d1ae1314a5aee9e.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_uniform_edf.glsl"
+dest_files=["res://.godot/imported/mx_uniform_edf.glsl-56af7a9da0603a957d1ae1314a5aee9e.res"]
+
+[params]
+

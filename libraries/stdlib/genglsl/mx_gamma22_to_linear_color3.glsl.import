@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cu8hwvio1skbi"
+path="res://.godot/imported/mx_gamma22_to_linear_color3.glsl-019081234081a5e294ec6791e6920b01.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_gamma22_to_linear_color3.glsl"
+dest_files=["res://.godot/imported/mx_gamma22_to_linear_color3.glsl-019081234081a5e294ec6791e6920b01.res"]
+
+[params]
+

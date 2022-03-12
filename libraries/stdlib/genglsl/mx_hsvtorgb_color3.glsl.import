@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dkjvtbuwumqm4"
+path="res://.godot/imported/mx_hsvtorgb_color3.glsl-ad4b87dd822e37e97c22229f4da3f5dc.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_hsvtorgb_color3.glsl"
+dest_files=["res://.godot/imported/mx_hsvtorgb_color3.glsl-ad4b87dd822e37e97c22229f4da3f5dc.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cpp23wwcmh82v"
+path="res://.godot/imported/mx_burn_color4.glsl-55e54c85a3bec6bfa25df88d8c8b917c.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_burn_color4.glsl"
+dest_files=["res://.godot/imported/mx_burn_color4.glsl-55e54c85a3bec6bfa25df88d8c8b917c.res"]
+
+[params]
+

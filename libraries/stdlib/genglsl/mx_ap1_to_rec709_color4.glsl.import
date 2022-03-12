@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wjboknrs6yk"
+path="res://.godot/imported/mx_ap1_to_rec709_color4.glsl-c27229bb8486473899dd896ff8adf2ee.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_ap1_to_rec709_color4.glsl"
+dest_files=["res://.godot/imported/mx_ap1_to_rec709_color4.glsl-c27229bb8486473899dd896ff8adf2ee.res"]
+
+[params]
+

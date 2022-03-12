@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b7eajytmnq87b"
+path="res://.godot/imported/mx_add_edf.glsl-62c22f7f9209449e0592197e6e31910e.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_add_edf.glsl"
+dest_files=["res://.godot/imported/mx_add_edf.glsl-62c22f7f9209449e0592197e6e31910e.res"]
+
+[params]
+

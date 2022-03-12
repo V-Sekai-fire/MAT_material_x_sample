@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dqc0x4mp4cnt0"
+path="res://.godot/imported/mx_transform_color.glsl-2c70f4affd2e3841f302a1ced7270779.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/lib/mx_transform_color.glsl"
+dest_files=["res://.godot/imported/mx_transform_color.glsl-2c70f4affd2e3841f302a1ced7270779.res"]
+
+[params]
+

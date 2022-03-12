@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bvt1aplccnepi"
+path="res://.godot/imported/mx_gamma18_to_linear_color4.glsl-f614117b9d0b3291573f5257c2c53bb8.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_gamma18_to_linear_color4.glsl"
+dest_files=["res://.godot/imported/mx_gamma18_to_linear_color4.glsl-f614117b9d0b3291573f5257c2c53bb8.res"]
+
+[params]
+

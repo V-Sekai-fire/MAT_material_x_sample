@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cpbvn4b0pnilb"
+path="res://.godot/imported/mx_spot_light.glsl-581fd0b4ea6f8ea9f4ddeb43b95eb5f7.res"
+
+[deps]
+
+source_file="res://libraries/lights/genglsl/mx_spot_light.glsl"
+dest_files=["res://.godot/imported/mx_spot_light.glsl-581fd0b4ea6f8ea9f4ddeb43b95eb5f7.res"]
+
+[params]
+

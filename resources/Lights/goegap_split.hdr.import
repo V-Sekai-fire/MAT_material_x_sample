@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://c0gx2wai61l8g"
+path.s3tc="res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.s3tc.ctex"
+path.etc2="res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc", "etc2"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://resources/Lights/goegap_split.hdr"
+dest_files=["res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.s3tc.ctex", "res://.godot/imported/goegap_split.hdr-66b3e76976219d7ef5b1ba6d86b4c404.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/bptc_ldr=1
+compress/normal_map=0
+compress/channel_pack=0
+compress/streamed=false
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=false
+process/premult_alpha=true
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/size_limit=1024
+detect_3d/compress_to=0

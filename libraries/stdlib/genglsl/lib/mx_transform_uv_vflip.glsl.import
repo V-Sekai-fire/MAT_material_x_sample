@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://beuopngl6acn0"
+path="res://.godot/imported/mx_transform_uv_vflip.glsl-d759f36c7330b9d6c1de70f670bdc81e.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/lib/mx_transform_uv_vflip.glsl"
+dest_files=["res://.godot/imported/mx_transform_uv_vflip.glsl-d759f36c7330b9d6c1de70f670bdc81e.res"]
+
+[params]
+

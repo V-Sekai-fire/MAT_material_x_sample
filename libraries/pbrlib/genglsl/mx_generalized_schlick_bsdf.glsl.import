@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bsax7i01p5tly"
+path="res://.godot/imported/mx_generalized_schlick_bsdf.glsl-a0c020681d3a77477b06bc8c955e8196.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_generalized_schlick_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_generalized_schlick_bsdf.glsl-a0c020681d3a77477b06bc8c955e8196.res"]
+
+[params]
+

@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dqeh1jq27do6b"
+path.s3tc="res://.godot/imported/san_giuseppe_bridge_split.hdr-e34949b0c2d278449591dfcc6c71b6e9.s3tc.ctex"
+path.etc2="res://.godot/imported/san_giuseppe_bridge_split.hdr-e34949b0c2d278449591dfcc6c71b6e9.etc2.ctex"
+metadata={
+"imported_formats": ["s3tc", "etc2"],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://resources/Lights/irradiance/san_giuseppe_bridge_split.hdr"
+dest_files=["res://.godot/imported/san_giuseppe_bridge_split.hdr-e34949b0c2d278449591dfcc6c71b6e9.s3tc.ctex", "res://.godot/imported/san_giuseppe_bridge_split.hdr-e34949b0c2d278449591dfcc6c71b6e9.etc2.ctex"]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/bptc_ldr=1
+compress/normal_map=0
+compress/channel_pack=0
+compress/streamed=false
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=false
+process/premult_alpha=true
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/size_limit=1024
+detect_3d/compress_to=0

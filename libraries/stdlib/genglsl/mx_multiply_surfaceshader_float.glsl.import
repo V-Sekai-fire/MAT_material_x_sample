@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bhsa3rvkpueld"
+path="res://.godot/imported/mx_multiply_surfaceshader_float.glsl-1482786cc6d80929900488a4bd2c882b.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_multiply_surfaceshader_float.glsl"
+dest_files=["res://.godot/imported/mx_multiply_surfaceshader_float.glsl-1482786cc6d80929900488a4bd2c882b.res"]
+
+[params]
+

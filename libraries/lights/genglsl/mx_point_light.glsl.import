@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://5rdcoy2dcijf"
+path="res://.godot/imported/mx_point_light.glsl-1b689f8af6cc5697ce2edd3702c2d5df.res"
+
+[deps]
+
+source_file="res://libraries/lights/genglsl/mx_point_light.glsl"
+dest_files=["res://.godot/imported/mx_point_light.glsl-1b689f8af6cc5697ce2edd3702c2d5df.res"]
+
+[params]
+

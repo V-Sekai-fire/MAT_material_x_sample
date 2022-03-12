@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://d4n0v5adnwmr4"
+path="res://.godot/imported/mx_transform_uv.glsl-6b65e687c334d9eb95018e23d9c5624a.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/lib/mx_transform_uv.glsl"
+dest_files=["res://.godot/imported/mx_transform_uv.glsl-6b65e687c334d9eb95018e23d9c5624a.res"]
+
+[params]
+

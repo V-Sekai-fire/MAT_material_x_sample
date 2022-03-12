@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<materialx version="1.38">
+  <testshader4 name="example4_surface_baked" type="surfaceshader">
+    <input name="base" type="float" value="0.8" />
+    <input name="base_color" type="color3" value="1, 1, 1" />
+    <input name="specular" type="float" value="1" />
+    <input name="specular_color" type="color3" value="1, 1, 1" />
+    <input name="specular_IOR" type="float" value="1.52" />
+    <input name="specular_roughness" type="float" value="0.1" />
+    <input name="coat_IOR" type="float" value="3" />
+  </testshader4>
+  <surfacematerial name="example4_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="example4_surface_baked" />
+  </surfacematerial>
+</materialx>

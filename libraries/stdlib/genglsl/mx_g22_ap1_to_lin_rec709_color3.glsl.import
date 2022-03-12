@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bo8s7jjoq3wej"
+path="res://.godot/imported/mx_g22_ap1_to_lin_rec709_color3.glsl-6cb9a9b5eca4775470a6eff1b4252a20.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_g22_ap1_to_lin_rec709_color3.glsl"
+dest_files=["res://.godot/imported/mx_g22_ap1_to_lin_rec709_color3.glsl-6cb9a9b5eca4775470a6eff1b4252a20.res"]
+
+[params]
+

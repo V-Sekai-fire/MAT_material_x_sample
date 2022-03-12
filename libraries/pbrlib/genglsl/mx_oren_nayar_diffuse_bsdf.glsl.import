@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dnpu4axflf0r6"
+path="res://.godot/imported/mx_oren_nayar_diffuse_bsdf.glsl-019d9cebcd163143e30215dbc10f2ad0.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_oren_nayar_diffuse_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_oren_nayar_diffuse_bsdf.glsl-019d9cebcd163143e30215dbc10f2ad0.res"]
+
+[params]
+

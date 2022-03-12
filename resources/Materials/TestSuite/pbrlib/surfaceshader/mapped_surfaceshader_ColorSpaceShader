@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<materialx version="1.38">
+  <standard_surface name="ColorSpaceShader_baked" type="surfaceshader">
+    <input name="base" type="float" value="0.5" />
+    <input name="base_color" type="color3" value="0.501961, 0, 0" colorspace="srgb_texture" />
+    <input name="metalness" type="float" value="0" />
+    <input name="specular" type="float" value="1" />
+    <input name="specular_color" type="color3" value="0.2, 0.6, 0.8" colorspace="g22_ap1" />
+    <input name="specular_roughness" type="float" value="0.2" />
+    <input name="coat" type="float" value="0" />
+  </standard_surface>
+  <surfacematerial name="ColorSpaceShaderMaterial_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="ColorSpaceShader_baked" />
+  </surfacematerial>
+</materialx>

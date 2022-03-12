@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dfbsnm1tcirkf"
+path="res://.godot/imported/mx_noise2d_vector2.glsl-1c2b71bcee8a924c3e275eca1dd51c6c.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_noise2d_vector2.glsl"
+dest_files=["res://.godot/imported/mx_noise2d_vector2.glsl-1c2b71bcee8a924c3e275eca1dd51c6c.res"]
+
+[params]
+

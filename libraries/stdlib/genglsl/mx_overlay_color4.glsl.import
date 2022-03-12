@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dyysx88v8yr15"
+path="res://.godot/imported/mx_overlay_color4.glsl-fe9a65298a9fe2d5c66f8d147b55d412.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_overlay_color4.glsl"
+dest_files=["res://.godot/imported/mx_overlay_color4.glsl-fe9a65298a9fe2d5c66f8d147b55d412.res"]
+
+[params]
+

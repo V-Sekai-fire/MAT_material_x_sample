@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://v02ku34fl567"
+path="res://.godot/imported/mx_microfacet_diffuse.glsl-e3630d3d59b19e22ee023699bef98bab.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/lib/mx_microfacet_diffuse.glsl"
+dest_files=["res://.godot/imported/mx_microfacet_diffuse.glsl-e3630d3d59b19e22ee023699bef98bab.res"]
+
+[params]
+

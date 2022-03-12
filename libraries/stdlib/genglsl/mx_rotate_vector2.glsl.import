@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://16kp3jpkfgaa"
+path="res://.godot/imported/mx_rotate_vector2.glsl-66b6bc67540ed3a5087fffa0d15868cf.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_rotate_vector2.glsl"
+dest_files=["res://.godot/imported/mx_rotate_vector2.glsl-66b6bc67540ed3a5087fffa0d15868cf.res"]
+
+[params]
+

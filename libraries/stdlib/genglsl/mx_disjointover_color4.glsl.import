@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bj24iy04nngbs"
+path="res://.godot/imported/mx_disjointover_color4.glsl-d8df5ca7c24839e2d99d84ce766c08f4.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_disjointover_color4.glsl"
+dest_files=["res://.godot/imported/mx_disjointover_color4.glsl-d8df5ca7c24839e2d99d84ce766c08f4.res"]
+
+[params]
+

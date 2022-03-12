@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c5nmscps7qiw5"
+path="res://.godot/imported/mx_artistic_ior.glsl-e697a66ec929d34554b1a9cc60b3101b.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_artistic_ior.glsl"
+dest_files=["res://.godot/imported/mx_artistic_ior.glsl-e697a66ec929d34554b1a9cc60b3101b.res"]
+
+[params]
+

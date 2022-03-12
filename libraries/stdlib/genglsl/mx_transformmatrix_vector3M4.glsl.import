@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dea17frwjjkh6"
+path="res://.godot/imported/mx_transformmatrix_vector3M4.glsl-cc4de92982fcda640aacf17c77707eff.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_transformmatrix_vector3M4.glsl"
+dest_files=["res://.godot/imported/mx_transformmatrix_vector3M4.glsl-cc4de92982fcda640aacf17c77707eff.res"]
+
+[params]
+

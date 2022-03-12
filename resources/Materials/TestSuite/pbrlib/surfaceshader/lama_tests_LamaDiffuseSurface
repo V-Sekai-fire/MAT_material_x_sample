@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<materialx version="1.38" colorspace="acescg">
+  <surface name="LamaDiffuseSurface_baked" type="surfaceshader">
+    <input name="bsdf" type="BSDF" nodename="LamaDiffuse" />
+  </surface>
+  <surfacematerial name="LamaDiffuseTest_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="LamaDiffuseSurface_baked" />
+  </surfacematerial>
+</materialx>

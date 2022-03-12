@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c3tjp8odi5wg"
+path="res://.godot/imported/mx_roughness_dual.glsl-03eb8d2e985d86ae63cdb1e972b98232.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_roughness_dual.glsl"
+dest_files=["res://.godot/imported/mx_roughness_dual.glsl-03eb8d2e985d86ae63cdb1e972b98232.res"]
+
+[params]
+

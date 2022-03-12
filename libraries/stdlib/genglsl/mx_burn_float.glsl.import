@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://gacuqxvo13ia"
+path="res://.godot/imported/mx_burn_float.glsl-185d4bdfc7855ce883e10d76bc79a10d.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_burn_float.glsl"
+dest_files=["res://.godot/imported/mx_burn_float.glsl-185d4bdfc7855ce883e10d76bc79a10d.res"]
+
+[params]
+

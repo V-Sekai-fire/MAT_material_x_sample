@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://vjvaefprtnyu"
+path="res://.godot/imported/mx_table.glsl-8f7e3099a00f9a947651b5cc6334a1c7.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/lib/mx_table.glsl"
+dest_files=["res://.godot/imported/mx_table.glsl-8f7e3099a00f9a947651b5cc6334a1c7.res"]
+
+[params]
+

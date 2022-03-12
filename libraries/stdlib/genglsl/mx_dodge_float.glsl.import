@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bcofpc8aiehv2"
+path="res://.godot/imported/mx_dodge_float.glsl-7b92fe8ea537e93ac3fdb9948d5f1b95.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_dodge_float.glsl"
+dest_files=["res://.godot/imported/mx_dodge_float.glsl-7b92fe8ea537e93ac3fdb9948d5f1b95.res"]
+
+[params]
+

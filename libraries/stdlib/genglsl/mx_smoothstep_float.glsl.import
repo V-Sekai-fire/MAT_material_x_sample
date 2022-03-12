@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b0lk8yonydawe"
+path="res://.godot/imported/mx_smoothstep_float.glsl-a08a50637761cfccc7d866a07c68eac5.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_smoothstep_float.glsl"
+dest_files=["res://.godot/imported/mx_smoothstep_float.glsl-a08a50637761cfccc7d866a07c68eac5.res"]
+
+[params]
+

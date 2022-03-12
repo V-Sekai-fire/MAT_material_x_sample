@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://dfm1f26l5t2r5"
+path="res://.godot/imported/mx_anisotropic_vdf.glsl-864e529225e651c419533a71bb887eb5.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_anisotropic_vdf.glsl"
+dest_files=["res://.godot/imported/mx_anisotropic_vdf.glsl-864e529225e651c419533a71bb887eb5.res"]
+
+[params]
+

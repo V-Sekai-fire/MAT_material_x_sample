@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cgo6x7rpp3s0f"
+path="res://.godot/imported/mx_smoothstep_vec4FA.glsl-085f9f1f3327fdb6c31634c3d597b7c4.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_smoothstep_vec4FA.glsl"
+dest_files=["res://.godot/imported/mx_smoothstep_vec4FA.glsl-085f9f1f3327fdb6c31634c3d597b7c4.res"]
+
+[params]
+

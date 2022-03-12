@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://i1twfjtil1l0"
+path="res://.godot/imported/mx_sampling.glsl-cf1aa46d319bc4895321ff78a28aa79f.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/lib/mx_sampling.glsl"
+dest_files=["res://.godot/imported/mx_sampling.glsl-cf1aa46d319bc4895321ff78a28aa79f.res"]
+
+[params]
+

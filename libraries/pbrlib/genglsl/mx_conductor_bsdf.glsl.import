@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://c0duenccdj7j1"
+path="res://.godot/imported/mx_conductor_bsdf.glsl-bb2cda4346236a0fff79ff241965d97c.res"
+
+[deps]
+
+source_file="res://libraries/pbrlib/genglsl/mx_conductor_bsdf.glsl"
+dest_files=["res://.godot/imported/mx_conductor_bsdf.glsl-bb2cda4346236a0fff79ff241965d97c.res"]
+
+[params]
+

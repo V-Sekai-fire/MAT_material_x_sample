@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://m2jbnoa0p081"
+path="res://.godot/imported/mx_rgbtohsv_color4.glsl-aa04102d729bd584fa84263d703ca4ae.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_rgbtohsv_color4.glsl"
+dest_files=["res://.godot/imported/mx_rgbtohsv_color4.glsl-aa04102d729bd584fa84263d703ca4ae.res"]
+
+[params]
+

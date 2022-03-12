@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<materialx version="1.38" colorspace="lin_rec709">
+  <nodegraph name="NG_baked" colorspace="srgb_texture">
+    <image name="base_color_baked" type="color3">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\stdlib\color_management\Filename_CM_Test_standard_surface_base_color.png" />
+    </image>
+    <output name="base_color_output" type="color3" nodename="base_color_baked" />
+    <image name="specular_color_baked" type="color3">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\stdlib\color_management\Filename_CM_Test_standard_surface_specular_color.png" />
+    </image>
+    <output name="specular_color_output" type="color3" nodename="specular_color_baked" />
+    <image name="transmission_color_baked" type="color3">
+      <input name="file" type="filename" value="C:\Chibifire.com\groups-workspace\groups\resources\Materials\TestSuite\stdlib\color_management\Filename_CM_Test_standard_surface_transmission_color.png" />
+    </image>
+    <output name="transmission_color_output" type="color3" nodename="transmission_color_baked" />
+  </nodegraph>
+  <standard_surface name="shaderref1_baked" type="surfaceshader">
+    <input name="base_color" type="color3" output="base_color_output" nodegraph="NG_baked" />
+    <input name="specular_color" type="color3" output="specular_color_output" nodegraph="NG_baked" />
+    <input name="transmission_color" type="color3" output="transmission_color_output" nodegraph="NG_baked" />
+  </standard_surface>
+  <surfacematerial name="Filename_CM_Test_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="shaderref1_baked" />
+  </surfacematerial>
+</materialx>

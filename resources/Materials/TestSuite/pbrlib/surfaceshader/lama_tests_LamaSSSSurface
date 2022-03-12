@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<materialx version="1.38" colorspace="acescg">
+  <surface name="LamaSSSSurface_baked" type="surfaceshader">
+    <input name="bsdf" type="BSDF" nodename="LamaSSS" />
+  </surface>
+  <surfacematerial name="LamaSSSTest_baked" type="material">
+    <input name="surfaceshader" type="surfaceshader" nodename="LamaSSSSurface_baked" />
+  </surfacematerial>
+</materialx>

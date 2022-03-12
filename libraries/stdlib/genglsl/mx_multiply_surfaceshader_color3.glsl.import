@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://cqrmcrntjiwu1"
+path="res://.godot/imported/mx_multiply_surfaceshader_color3.glsl-56209e9110b0be2835891be80f123c24.res"
+
+[deps]
+
+source_file="res://libraries/stdlib/genglsl/mx_multiply_surfaceshader_color3.glsl"
+dest_files=["res://.godot/imported/mx_multiply_surfaceshader_color3.glsl-56209e9110b0be2835891be80f123c24.res"]
+
+[params]
+
