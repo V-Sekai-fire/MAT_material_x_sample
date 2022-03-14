@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-<materialx version="1.38" colorspace="srgb_texture">
-  <NodeB name="SR_test_baked" type="surfaceshader" />
-  <surfacematerial name="M_test_baked" type="material">
-    <input name="surfaceshader" type="surfaceshader" nodename="SR_test_baked" />
-  </surfacematerial>
-</materialx>

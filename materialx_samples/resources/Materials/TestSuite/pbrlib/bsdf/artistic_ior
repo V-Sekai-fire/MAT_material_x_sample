@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<materialx version="1.38">
-  <standard_surface name="standard_surface_baked" type="surfaceshader">
-    <input name="specular_IOR" type="float" nodename="extract" />
-  </standard_surface>
-  <surfacematerial name="surfacematerial_baked" type="material">
-    <input name="surfaceshader" type="surfaceshader" nodename="standard_surface_baked" />
-  </surfacematerial>
-</materialx>

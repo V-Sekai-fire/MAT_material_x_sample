@@ -13,3 +13,7 @@ config_version=5
 config/name="MaterialX Material Project"
 config/icon="res://icon.png"
 config/features=PackedStringArray("4.0", "Vulkan Clustered")
+
+[editor]
+
+import/reimport_missing_imported_files=false

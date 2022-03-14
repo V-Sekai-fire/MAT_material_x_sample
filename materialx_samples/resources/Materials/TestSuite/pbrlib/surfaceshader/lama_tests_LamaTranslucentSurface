@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<materialx version="1.38" colorspace="acescg">
-  <surface name="LamaTranslucentSurface_baked" type="surfaceshader">
-    <input name="bsdf" type="BSDF" nodename="LamaTranslucent" />
-  </surface>
-  <surfacematerial name="LamaTranslucentTest_baked" type="material">
-    <input name="surfaceshader" type="surfaceshader" nodename="LamaTranslucentSurface_baked" />
-  </surfacematerial>
-</materialx>

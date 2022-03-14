@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<materialx version="1.38">
-  <foo_surface name="varying_ior_test1_baked" type="surfaceshader">
-    <input name="ior" type="float" nodename="texcoord1" channels="x" />
-  </foo_surface>
-  <surfacematerial name="varying_ior_test1_mtrl_baked" type="material">
-    <input name="surfaceshader" type="surfaceshader" nodename="varying_ior_test1_baked" />
-  </surfacematerial>
-</materialx>
