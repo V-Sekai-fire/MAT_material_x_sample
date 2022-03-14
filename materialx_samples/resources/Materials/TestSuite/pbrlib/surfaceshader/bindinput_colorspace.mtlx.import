@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://c7dm51x3pl71a"
+path="res://.godot/imported/bindinput_colorspace.mtlx-da969dcf653d49fb7e135c5b199369f3.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/bindinput_colorspace.mtlx"
+dest_files=["res://.godot/imported/bindinput_colorspace.mtlx-da969dcf653d49fb7e135c5b199369f3.res"]
+
+[params]
+

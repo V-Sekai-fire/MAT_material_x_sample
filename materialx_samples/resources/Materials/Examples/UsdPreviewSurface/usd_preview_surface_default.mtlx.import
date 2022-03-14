@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://ul84ovmu8p24"
+path="res://.godot/imported/usd_preview_surface_default.mtlx-f65c2974d2c0d3455f8f3ec00c72465f.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/UsdPreviewSurface/usd_preview_surface_default.mtlx"
+dest_files=["res://.godot/imported/usd_preview_surface_default.mtlx-f65c2974d2c0d3455f8f3ec00c72465f.res"]
+
+[params]
+

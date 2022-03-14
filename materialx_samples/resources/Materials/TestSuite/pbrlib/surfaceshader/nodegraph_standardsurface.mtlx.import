@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://fnnrax82ugs5"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/nodegraph_standardsurface.mtlx"
+[params]
+

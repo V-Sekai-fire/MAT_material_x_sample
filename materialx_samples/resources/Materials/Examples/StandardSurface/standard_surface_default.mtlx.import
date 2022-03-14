@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://b7nvl6s30ytcq"
+path="res://.godot/imported/standard_surface_default.mtlx-275cad48fec9a5eb5460105a088e405f.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/StandardSurface/standard_surface_default.mtlx"
+dest_files=["res://.godot/imported/standard_surface_default.mtlx-275cad48fec9a5eb5460105a088e405f.res"]
+
+[params]
+

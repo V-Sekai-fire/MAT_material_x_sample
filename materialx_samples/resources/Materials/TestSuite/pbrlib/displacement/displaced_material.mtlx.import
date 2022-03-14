@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://blawq76dqw7l6"
+path="res://.godot/imported/displaced_material.mtlx-cab447b91a2e1fb68787fcc872e770bc.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/displacement/displaced_material.mtlx"
+dest_files=["res://.godot/imported/displaced_material.mtlx-cab447b91a2e1fb68787fcc872e770bc.res"]
+
+[params]
+

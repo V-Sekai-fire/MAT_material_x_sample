@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://bhqr5va3eopoi"
+path="res://.godot/imported/standard_surface_carpaint.mtlx-dc1de652346031bc59e51432a7a5c932.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/StandardSurface/standard_surface_carpaint.mtlx"
+dest_files=["res://.godot/imported/standard_surface_carpaint.mtlx-dc1de652346031bc59e51432a7a5c932.res"]
+
+[params]
+

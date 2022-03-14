@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://bxsn63u8vongv"
+path="res://.godot/imported/surface_colorspace.mtlx-e72b15fdc51e8a15837422804f626774.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/color_management/surface_colorspace.mtlx"
+dest_files=["res://.godot/imported/surface_colorspace.mtlx-e72b15fdc51e8a15837422804f626774.res"]
+
+[params]
+

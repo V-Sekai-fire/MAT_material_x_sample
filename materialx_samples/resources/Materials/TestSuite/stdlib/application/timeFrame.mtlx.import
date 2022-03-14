@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://cf804j0jkio"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/application/timeFrame.mtlx"
+[params]
+

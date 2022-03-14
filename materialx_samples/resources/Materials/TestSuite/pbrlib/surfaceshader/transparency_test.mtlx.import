@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://be7w1400i2vbj"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/transparency_test.mtlx"
+[params]
+

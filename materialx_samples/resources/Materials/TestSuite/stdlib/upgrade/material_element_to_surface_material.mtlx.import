@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://6j1yeopou5mi"
+path="res://.godot/imported/material_element_to_surface_material.mtlx-78ebf14d562147769d5b4da1414195ae.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/upgrade/material_element_to_surface_material.mtlx"
+dest_files=["res://.godot/imported/material_element_to_surface_material.mtlx-78ebf14d562147769d5b4da1414195ae.res"]
+
+[params]
+

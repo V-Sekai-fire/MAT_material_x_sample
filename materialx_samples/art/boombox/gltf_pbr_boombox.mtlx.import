@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://c3ukqsbiu38gk"
+path="res://.godot/imported/gltf_pbr_boombox.mtlx-6d6c44219ee3095eca3f45c9fd442aa6.res"
+
+[deps]
+
+source_file="res://materialx_samples/art/boombox/gltf_pbr_boombox.mtlx"
+dest_files=["res://.godot/imported/gltf_pbr_boombox.mtlx-6d6c44219ee3095eca3f45c9fd442aa6.res"]
+
+[params]
+

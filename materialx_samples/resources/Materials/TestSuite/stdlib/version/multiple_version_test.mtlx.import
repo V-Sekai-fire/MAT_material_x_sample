@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://dbjivh823qxbl"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/version/multiple_version_test.mtlx"
+[params]
+

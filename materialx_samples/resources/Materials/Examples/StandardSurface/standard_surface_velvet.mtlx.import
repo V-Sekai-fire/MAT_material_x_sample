@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://dtlvbn6x1g6dh"
+path="res://.godot/imported/standard_surface_velvet.mtlx-b0df5017ce464e74212d17d2d8c298d1.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/StandardSurface/standard_surface_velvet.mtlx"
+dest_files=["res://.godot/imported/standard_surface_velvet.mtlx-b0df5017ce464e74212d17d2d8c298d1.res"]
+
+[params]
+

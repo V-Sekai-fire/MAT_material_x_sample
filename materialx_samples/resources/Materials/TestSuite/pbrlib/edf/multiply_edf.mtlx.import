@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://dcocnf8h7ad3l"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/edf/multiply_edf.mtlx"
+[params]
+

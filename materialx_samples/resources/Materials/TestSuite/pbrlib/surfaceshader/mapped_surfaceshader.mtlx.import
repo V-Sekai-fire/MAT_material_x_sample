@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://c5rw773fqim33"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/pbrlib/surfaceshader/mapped_surfaceshader.mtlx"
+[params]
+

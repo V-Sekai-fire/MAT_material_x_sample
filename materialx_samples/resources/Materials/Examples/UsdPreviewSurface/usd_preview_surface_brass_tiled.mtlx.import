@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://bw3ojg7kg74to"
+path="res://.godot/imported/usd_preview_surface_brass_tiled.mtlx-c5c5c78360daf40b1b02ada0652eca98.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/UsdPreviewSurface/usd_preview_surface_brass_tiled.mtlx"
+dest_files=["res://.godot/imported/usd_preview_surface_brass_tiled.mtlx-c5c5c78360daf40b1b02ada0652eca98.res"]
+
+[params]
+

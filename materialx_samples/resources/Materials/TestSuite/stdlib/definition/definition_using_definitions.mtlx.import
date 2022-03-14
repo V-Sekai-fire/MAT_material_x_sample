@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://c0wn3j1v2ab4h"
+path="res://.godot/imported/definition_using_definitions.mtlx-30cedfc881bb352c2e025b716c4a2ca9.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/definition/definition_using_definitions.mtlx"
+dest_files=["res://.godot/imported/definition_using_definitions.mtlx-30cedfc881bb352c2e025b716c4a2ca9.res"]
+
+[params]
+

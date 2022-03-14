@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://by2y4ufwbhagj"
+path="res://.godot/imported/brass_wire_mesh.mtlx-e417a67f8b64a9a00ce5c2ded8203fc5.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/libraries/metal/brass_wire_mesh.mtlx"
+dest_files=["res://.godot/imported/brass_wire_mesh.mtlx-e417a67f8b64a9a00ce5c2ded8203fc5.res"]
+
+[params]
+

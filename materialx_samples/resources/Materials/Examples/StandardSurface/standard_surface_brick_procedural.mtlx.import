@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://cgg27mcgfcy72"
+path="res://.godot/imported/standard_surface_brick_procedural.mtlx-695dc09c5469cf24ee96c4afebd59bb6.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/StandardSurface/standard_surface_brick_procedural.mtlx"
+dest_files=["res://.godot/imported/standard_surface_brick_procedural.mtlx-695dc09c5469cf24ee96c4afebd59bb6.res"]
+
+[params]
+

@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://ci24kosr1gaiy"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/nodegraph_inputs/cascade_nodegraphs.mtlx"
+[params]
+

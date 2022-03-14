@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://clwxdud2k5cbm"
+path="res://.godot/imported/standard_surface_unit.mtlx-59265fef3ab800dbdb3b9dc36ef82ed8.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/TestSuite/stdlib/units/standard_surface_unit.mtlx"
+dest_files=["res://.godot/imported/standard_surface_unit.mtlx-59265fef3ab800dbdb3b9dc36ef82ed8.res"]
+
+[params]
+

@@ -1,0 +1,14 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://bowf55hjkrdna"
+path="res://.godot/imported/standard_surface_gold.mtlx-93592637eb971cf6eac857116b547937.res"
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/StandardSurface/standard_surface_gold.mtlx"
+dest_files=["res://.godot/imported/standard_surface_gold.mtlx-93592637eb971cf6eac857116b547937.res"]
+
+[params]
+

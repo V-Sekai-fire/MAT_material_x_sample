@@ -1,0 +1,12 @@
+[remap]
+
+importer="material_x"
+type="StandardMaterial3D"
+uid="uid://c2l5wxcvbvbxa"
+valid=false
+
+[deps]
+
+source_file="res://materialx_samples/resources/Materials/Examples/Syntax/PreShaderComposite.mtlx"
+[params]
+
