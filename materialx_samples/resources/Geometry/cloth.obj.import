@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://caokq0p73er21"
-path="res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"
+path="res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.mesh"
 
 [deps]
 
-files=["res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"]
+files=["res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.mesh"]
 
-source_file="res://resources/Geometry/cloth.obj"
-dest_files=["res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh", "res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"]
+source_file="res://materialx_samples/resources/Geometry/cloth.obj"
+dest_files=["res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.mesh", "res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.mesh"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://epri8ikinlhd"
-path="res://.godot/imported/greysphere_calibration.png-78c61597e26a629a51655c1b4a3e4f06.ctex"
+path="res://.godot/imported/greysphere_calibration.png-34f334d94d84913736f9feea91dcb8e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/greysphere_calibration.png"
-dest_files=["res://.godot/imported/greysphere_calibration.png-78c61597e26a629a51655c1b4a3e4f06.ctex"]
+source_file="res://materialx_samples/resources/Images/greysphere_calibration.png"
+dest_files=["res://.godot/imported/greysphere_calibration.png-34f334d94d84913736f9feea91dcb8e9.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwb27jftgg8gp"
-path="res://.godot/imported/BoomBox_normal.png-a974279a762191a7b23bca6252c68346.ctex"
+path="res://.godot/imported/BoomBox_normal.png-56d378cebd425798400ff2f7769f4d00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Materials/Examples/GltfPbr/boombox/BoomBox_normal.png"
-dest_files=["res://.godot/imported/BoomBox_normal.png-a974279a762191a7b23bca6252c68346.ctex"]
+source_file="res://materialx_samples/resources/Materials/Examples/GltfPbr/boombox/BoomBox_normal.png"
+dest_files=["res://.godot/imported/BoomBox_normal.png-56d378cebd425798400ff2f7769f4d00.ctex"]
 
 [params]
 

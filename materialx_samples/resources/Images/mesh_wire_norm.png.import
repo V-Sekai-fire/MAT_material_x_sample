@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mp6xsenawb02"
-path="res://.godot/imported/mesh_wire_norm.png-6ae6c48f8bc10b672d840cdef718f18b.ctex"
+path="res://.godot/imported/mesh_wire_norm.png-33f889b0bb8937a4ed8be64def77732d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/mesh_wire_norm.png"
-dest_files=["res://.godot/imported/mesh_wire_norm.png-6ae6c48f8bc10b672d840cdef718f18b.ctex"]
+source_file="res://materialx_samples/resources/Images/mesh_wire_norm.png"
+dest_files=["res://.godot/imported/mesh_wire_norm.png-33f889b0bb8937a4ed8be64def77732d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dq6wxoks4smeg"
-path="res://.godot/imported/brass_roughness.jpg-b71ee1d46bd65070df1f10f620a031c6.ctex"
+path="res://.godot/imported/brass_roughness.jpg-2303489c53db9168b38a051dff9056d3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/brass_roughness.jpg"
-dest_files=["res://.godot/imported/brass_roughness.jpg-b71ee1d46bd65070df1f10f620a031c6.ctex"]
+source_file="res://materialx_samples/resources/Images/brass_roughness.jpg"
+dest_files=["res://.godot/imported/brass_roughness.jpg-2303489c53db9168b38a051dff9056d3.ctex"]
 
 [params]
 

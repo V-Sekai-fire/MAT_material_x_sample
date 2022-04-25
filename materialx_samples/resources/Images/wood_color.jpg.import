@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmkjc1i5hwdye"
-path="res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.ctex"
+path="res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/wood_color.jpg"
-dest_files=["res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.ctex"]
+source_file="res://materialx_samples/resources/Images/wood_color.jpg"
+dest_files=["res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://drcdlphh7tw4i"
-path="res://.godot/imported/brick_dirt_mask.jpg-b0bdadb9784628802d9a8d88a572a53b.ctex"
+path="res://.godot/imported/brick_dirt_mask.jpg-71d42ad1407d02e0ab0bf26b220c5a65.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/brick_dirt_mask.jpg"
-dest_files=["res://.godot/imported/brick_dirt_mask.jpg-b0bdadb9784628802d9a8d88a572a53b.ctex"]
+source_file="res://materialx_samples/resources/Images/brick_dirt_mask.jpg"
+dest_files=["res://.godot/imported/brick_dirt_mask.jpg-71d42ad1407d02e0ab0bf26b220c5a65.ctex"]
 
 [params]
 

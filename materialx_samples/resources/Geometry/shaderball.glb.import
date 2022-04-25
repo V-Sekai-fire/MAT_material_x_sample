@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c2pjipw60b3ra"
-path="res://.godot/imported/shaderball.glb-bbbaacd59c3ad1b86c8c9347606ae5e1.scn"
+path="res://.godot/imported/shaderball.glb-2a2f1104b54aefba84d4cb57c30f4bdf.scn"
 
 [deps]
 
-source_file="res://resources/Geometry/shaderball.glb"
-dest_files=["res://.godot/imported/shaderball.glb-bbbaacd59c3ad1b86c8c9347606ae5e1.scn"]
+source_file="res://materialx_samples/resources/Geometry/shaderball.glb"
+dest_files=["res://.godot/imported/shaderball.glb-2a2f1104b54aefba84d4cb57c30f4bdf.scn"]
 
 [params]
 

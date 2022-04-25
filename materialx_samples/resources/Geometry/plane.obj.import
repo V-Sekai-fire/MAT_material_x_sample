@@ -4,14 +4,14 @@ importer="wavefront_obj"
 importer_version=1
 type="Mesh"
 uid="uid://cvw7nj61bs0f8"
-path="res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.mesh"
+path="res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.mesh"
 
 [deps]
 
-files=["res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.mesh"]
+files=["res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.mesh"]
 
-source_file="res://resources/Geometry/plane.obj"
-dest_files=["res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.mesh", "res://.godot/imported/plane.obj-167980b5507427fc40c5afd2015baf9b.mesh"]
+source_file="res://materialx_samples/resources/Geometry/plane.obj"
+dest_files=["res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.mesh", "res://.godot/imported/plane.obj-d834711e481bd83718586dceb09e7cef.mesh"]
 
 [params]
 

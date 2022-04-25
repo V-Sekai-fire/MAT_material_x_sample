@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tg1u3klltria"
-path="res://.godot/imported/brick_variation_mask.jpg-97d73d90eff17f8dab1f0ffd8e0aa47d.ctex"
+path="res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/brick_variation_mask.jpg"
-dest_files=["res://.godot/imported/brick_variation_mask.jpg-97d73d90eff17f8dab1f0ffd8e0aa47d.ctex"]
+source_file="res://materialx_samples/resources/Images/brick_variation_mask.jpg"
+dest_files=["res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.ctex"]
 
 [params]
 

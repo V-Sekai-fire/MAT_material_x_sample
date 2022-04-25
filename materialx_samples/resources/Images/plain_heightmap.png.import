@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x21fm071swol"
-path="res://.godot/imported/plain_heightmap.png-2667870d5237614b75bfc5d21548b0e3.ctex"
+path="res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/plain_heightmap.png"
-dest_files=["res://.godot/imported/plain_heightmap.png-2667870d5237614b75bfc5d21548b0e3.ctex"]
+source_file="res://materialx_samples/resources/Images/plain_heightmap.png"
+dest_files=["res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.ctex"]
 
 [params]
 

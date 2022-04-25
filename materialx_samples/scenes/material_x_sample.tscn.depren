@@ -1,6 +1,6 @@
-[gd_scene load_steps=4 format=3 uid="uid://b5d43smj5cvvn"]
+[gd_scene load_steps=4 format=3]
 
-[ext_resource type="Material" path="res://materialx_samples/resources/Materials/Examples/GltfPbr/gltf_pbr_boombox.mtlx" id="1_5jccv"]
+[ext_resource type="Material" path="res://materialx_samples/resources/Materials/Examples/GltfPbr/gltf_pbr_boombox.mtlx" id="1_rgswd"]
 
 [sub_resource type="ArrayMesh" id="ArrayMesh_c38y3"]
 _surfaces = [{
@@ -36,4 +36,4 @@ shadow_mesh = SubResource( "ArrayMesh_c38y3" )
 transform = Transform3D(100, 0, 0, 0, 100, 0, 0, 0, 100, -4.42543, 0.391979, 2.46865)
 mesh = SubResource( "ArrayMesh_gbb6s" )
 skeleton = NodePath("")
-surface_material_override/0 = ExtResource( "1_5jccv" )
+surface_material_override/0 = ExtResource( "1_rgswd" )

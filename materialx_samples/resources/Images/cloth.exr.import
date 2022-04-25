@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dritb2n01aufc"
-path="res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.ctex"
+path="res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://resources/Images/cloth.exr"
-dest_files=["res://.godot/imported/cloth.exr-987b8147170291d5a71b884c75fdddd2.ctex"]
+source_file="res://materialx_samples/resources/Images/cloth.exr"
+dest_files=["res://.godot/imported/cloth.exr-1cd98914fcd953fb3a390f54c55bf134.ctex"]
 
 [params]
 
