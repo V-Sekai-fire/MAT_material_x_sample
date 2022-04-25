@@ -2,35 +2,32 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cvxenx134teq2"
-path.s3tc="res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.s3tc.ctex"
-path.etc2="res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.etc2.ctex"
+uid="uid://tg1u3klltria"
+path="res://.godot/imported/brick_variation_mask.jpg-97d73d90eff17f8dab1f0ffd8e0aa47d.ctex"
 metadata={
-"imported_formats": ["s3tc", "etc2"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://materialx_samples/resources/Images/brick_variation_mask.jpg"
-dest_files=["res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.s3tc.ctex", "res://.godot/imported/brick_variation_mask.jpg-47ba47de224e62d8745d3bf7a93d8c77.etc2.ctex"]
+source_file="res://resources/Images/brick_variation_mask.jpg"
+dest_files=["res://.godot/imported/brick_variation_mask.jpg-97d73d90eff17f8dab1f0ffd8e0aa47d.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=1
+compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
-compress/streamed=false
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
-process/premult_alpha=true
+process/fix_alpha_border=true
+process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
-process/size_limit=1024
-detect_3d/compress_to=0
+process/size_limit=0
+detect_3d/compress_to=1

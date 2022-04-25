@@ -1,28 +1,21 @@
 [remap]
 
-importer="scene"
+importer="wavefront_obj"
 importer_version=1
-type="PackedScene"
-uid="uid://b84dgut0lloh0"
-path="res://.godot/imported/sphere.obj-ab4bc6927a702ea3394e3a4fea1c45e0.scn"
+type="Mesh"
+uid="uid://b22qkihhqq62c"
+path="res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.mesh"
 
 [deps]
 
-source_file="res://materialx_samples/resources/Geometry/sphere.obj"
-dest_files=["res://.godot/imported/sphere.obj-ab4bc6927a702ea3394e3a4fea1c45e0.scn"]
+files=["res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.mesh"]
+
+source_file="res://resources/Geometry/sphere.obj"
+dest_files=["res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.mesh", "res://.godot/imported/sphere.obj-8f3b67bcca26a6fa47574c85d1fc1db9.mesh"]
 
 [params]
 
-nodes/root_type="Node3D"
-nodes/root_name="Scene Root"
-nodes/root_scale=1.0
-meshes/ensure_tangents=true
-meshes/generate_lods=true
-meshes/create_shadow_meshes=true
-meshes/light_baking=1
-meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
-animation/import=true
-animation/fps=30
-import_script/path=""
-_subresources={}
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

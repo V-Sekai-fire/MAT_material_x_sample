@@ -1,28 +1,21 @@
 [remap]
 
-importer="scene"
+importer="wavefront_obj"
 importer_version=1
-type="PackedScene"
-uid="uid://ej8f8kpfixx"
-path="res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.scn"
+type="Mesh"
+uid="uid://caokq0p73er21"
+path="res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"
 
 [deps]
 
-source_file="res://materialx_samples/resources/Geometry/cloth.obj"
-dest_files=["res://.godot/imported/cloth.obj-41ea31b40db7ff1762ad131f8a71fff1.scn"]
+files=["res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"]
+
+source_file="res://resources/Geometry/cloth.obj"
+dest_files=["res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh", "res://.godot/imported/cloth.obj-449282410928435a5d42b8e4836f5a44.mesh"]
 
 [params]
 
-nodes/root_type="Node3D"
-nodes/root_name="Scene Root"
-nodes/root_scale=1.0
-meshes/ensure_tangents=true
-meshes/generate_lods=true
-meshes/create_shadow_meshes=true
-meshes/light_baking=1
-meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
-animation/import=true
-animation/fps=30
-import_script/path=""
-_subresources={}
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

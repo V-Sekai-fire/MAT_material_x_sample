@@ -2,35 +2,32 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bj8g6gv1jhg8q"
-path.s3tc="res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.s3tc.ctex"
-path.etc2="res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.etc2.ctex"
+uid="uid://cmkjc1i5hwdye"
+path="res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.ctex"
 metadata={
-"imported_formats": ["s3tc", "etc2"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://materialx_samples/resources/Images/wood_color.jpg"
-dest_files=["res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.s3tc.ctex", "res://.godot/imported/wood_color.jpg-5dd29ca429f420b28c4934e884bc4481.etc2.ctex"]
+source_file="res://resources/Images/wood_color.jpg"
+dest_files=["res://.godot/imported/wood_color.jpg-d75132215d9324cbfb4021619b9b78ba.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=1
+compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
-compress/streamed=false
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
-process/premult_alpha=true
+process/fix_alpha_border=true
+process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
-process/size_limit=1024
-detect_3d/compress_to=0
+process/size_limit=0
+detect_3d/compress_to=1

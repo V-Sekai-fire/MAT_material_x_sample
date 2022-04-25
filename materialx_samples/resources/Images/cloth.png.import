@@ -2,35 +2,32 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ba7qospn7htg5"
-path.s3tc="res://.godot/imported/cloth.png-664e82bc014da8d8c8e4ac7a710749b9.s3tc.ctex"
-path.etc2="res://.godot/imported/cloth.png-664e82bc014da8d8c8e4ac7a710749b9.etc2.ctex"
+uid="uid://cfs6jgfqntgnr"
+path="res://.godot/imported/cloth.png-3beaa530c2629d342f3b313025810681.ctex"
 metadata={
-"imported_formats": ["s3tc", "etc2"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://materialx_samples/resources/Images/cloth.png"
-dest_files=["res://.godot/imported/cloth.png-664e82bc014da8d8c8e4ac7a710749b9.s3tc.ctex", "res://.godot/imported/cloth.png-664e82bc014da8d8c8e4ac7a710749b9.etc2.ctex"]
+source_file="res://resources/Images/cloth.png"
+dest_files=["res://.godot/imported/cloth.png-3beaa530c2629d342f3b313025810681.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=1
+compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
-compress/streamed=false
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
-process/premult_alpha=true
+process/fix_alpha_border=true
+process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
-process/size_limit=1024
-detect_3d/compress_to=0
+process/size_limit=0
+detect_3d/compress_to=1

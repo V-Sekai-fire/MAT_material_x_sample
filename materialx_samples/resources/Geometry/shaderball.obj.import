@@ -1,28 +1,21 @@
 [remap]
 
-importer="scene"
+importer="wavefront_obj"
 importer_version=1
-type="PackedScene"
-uid="uid://mo6tg1dsi507"
-path="res://.godot/imported/shaderball.obj-7f89c503251f1103d22c0127f0db3f30.scn"
+type="Mesh"
+uid="uid://hbqxwv88qc8x"
+path="res://.godot/imported/shaderball.obj-3a4c586301d0db188b8e19917742d43a.mesh"
 
 [deps]
 
-source_file="res://materialx_samples/resources/Geometry/shaderball.obj"
-dest_files=["res://.godot/imported/shaderball.obj-7f89c503251f1103d22c0127f0db3f30.scn"]
+files=["res://.godot/imported/shaderball.obj-3a4c586301d0db188b8e19917742d43a.mesh"]
+
+source_file="res://resources/Geometry/shaderball.obj"
+dest_files=["res://.godot/imported/shaderball.obj-3a4c586301d0db188b8e19917742d43a.mesh", "res://.godot/imported/shaderball.obj-3a4c586301d0db188b8e19917742d43a.mesh"]
 
 [params]
 
-nodes/root_type="Node3D"
-nodes/root_name="Scene Root"
-nodes/root_scale=1.0
-meshes/ensure_tangents=true
-meshes/generate_lods=true
-meshes/create_shadow_meshes=true
-meshes/light_baking=1
-meshes/lightmap_texel_size=0.1
-skins/use_named_skins=true
-animation/import=true
-animation/fps=30
-import_script/path=""
-_subresources={}
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -2,35 +2,32 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://5wyvg01nisf0"
-path.s3tc="res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.s3tc.ctex"
-path.etc2="res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.etc2.ctex"
+uid="uid://x21fm071swol"
+path="res://.godot/imported/plain_heightmap.png-2667870d5237614b75bfc5d21548b0e3.ctex"
 metadata={
-"imported_formats": ["s3tc", "etc2"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://materialx_samples/resources/Images/plain_heightmap.png"
-dest_files=["res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.s3tc.ctex", "res://.godot/imported/plain_heightmap.png-d75925b5c6e43098ad066be916a5b25c.etc2.ctex"]
+source_file="res://resources/Images/plain_heightmap.png"
+dest_files=["res://.godot/imported/plain_heightmap.png-2667870d5237614b75bfc5d21548b0e3.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/bptc_ldr=1
+compress/bptc_ldr=0
 compress/normal_map=0
 compress/channel_pack=0
-compress/streamed=false
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
-process/fix_alpha_border=false
-process/premult_alpha=true
+process/fix_alpha_border=true
+process/premult_alpha=false
 process/normal_map_invert_y=false
 process/hdr_as_srgb=false
-process/size_limit=1024
-detect_3d/compress_to=0
+process/size_limit=0
+detect_3d/compress_to=1
