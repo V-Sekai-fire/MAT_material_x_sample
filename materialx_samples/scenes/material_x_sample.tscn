@@ -1,6 +1,6 @@
-[gd_scene load_steps=4 format=3 uid="uid://b86jkx4bhftmy"]
+[gd_scene load_steps=4 format=3]
 
-[ext_resource type="Material" path="res://materialx_samples/resources/Materials/Examples/GltfPbr/gltf_pbr_boombox.mtlx" id="1_07exx"]
+[ext_resource type="Material" path="res://materialx_samples/art/gltf_pbr_boombox.mtlx" id="1_07exx"]
 
 [sub_resource type="ArrayMesh" id="ArrayMesh_c38y3"]
 _surfaces = [{
